@@ -474,7 +474,7 @@ ITEM_20150317_000473	Prima Crossbow
 ITEM_20150317_000474	Shooting Star 
 ITEM_20150317_000475	Ранее только лучники, прошедшие обучение в "Башне Звезд" могли использовать это оружие. 
 ITEM_20150317_000476	Kateen Blaster
-ITEM_20150317_000477	The Ranger Master developed this weapon based on research data on the monsters in the Kateen Forest after the Great Plant Cataclysm. However, he recommends that no one uses it. 
+ITEM_20150317_000477	The Ranger Master developed this weapon based on research data on the monsters in the Kateen Forest after the Great Plant Cataclysm. However, she recommends that no one uses it. 
 ITEM_20150317_000478	Grajus 
 ITEM_20150317_000479	Can large monsters be hunted using only a one-handed crossbow? This is the answer. 
 ITEM_20150317_000480	Deathweaver Crossbow 
@@ -487,7 +487,7 @@ ITEM_20150317_000486	Morto
 ITEM_20150317_000487	This recipe was disclosed to the public after Evoniphon threw away his weapon while being chased by Fiona Ieva. However, many fell foolishly challenging monsters while only relying on this weapon. 
 ITEM_20150317_000488	Empty_weapon_Mace 
 ITEM_20150317_000489	Crude Wooden Club 
-ITEM_20150317_000490	Одноручное дробящее оружие [Удар] 
+ITEM_20150317_000490	Одноручное Дробящее оружие [Удар] 
 ITEM_20150317_000491	A very simple weapon for anyone to use without difficulty. 
 ITEM_20150317_000492	Wooden Club 
 ITEM_20150317_000493	Even an ordinary wooden stick can become a holy item if wielded by a cleric. 
@@ -812,7 +812,7 @@ ITEM_20150317_000811	Users of this wand must be able to control their own darkne
 ITEM_20150317_000812	Levereuse 
 ITEM_20150317_000813	People with strong mind and self-realization can utilize Levereuse to its full potential during battle. 
 ITEM_20150317_000814	Kyrnus 
-ITEM_20150317_000815	Prior to the Great Plant Cataclym, there was nobody who would use this weapon because it used Demonic powers. However, with the vanishing of the Goddesses, desperate people have begun using it. 
+ITEM_20150317_000815	Prior to the Great Plant Cataclym, there was nobody who would use this weapon because it used demonic powers. However, with the vanishing of the goddesses, desperate people have begun using it.
 ITEM_20150317_000816	Нож 
 ITEM_20150317_000817	Доп-Оружие 
 ITEM_20150317_000818	It is a small knife used for various purposes such as battle, cooking, or camping. 
@@ -1147,7 +1147,7 @@ ITEM_20150317_001146	Mummyghast Mail
 ITEM_20150317_001147	Vejo Boots 
 ITEM_20150317_001148	Mien Boots 
 ITEM_20150317_001149	Archon Hands 
-ITEM_20150317_001150	These gloves are used by the Archon. 
+ITEM_20150317_001150	These gloves are used by Archon. 
 ITEM_20150317_001151	Ravinepede Boots 
 ITEM_20150317_001152	Boots coated with Ravinepede poison. Provides resistance against poison. 
 ITEM_20150317_001153	Nepenthes Gloves 
@@ -1284,7 +1284,7 @@ ITEM_20150317_001283	Wind Runner
 ITEM_20150317_001284	Zachariel's Heart 
 ITEM_20150317_001285	Hydra Trousers 
 ITEM_20150317_001286	Banshee Veil 
-ITEM_20150317_001287	Торс [Ghost] 
+ITEM_20150317_001287	Торс [Призрак] 
 ITEM_20150317_001288	Empty_Neck 
 ITEM_20150317_001289	Right-click to equip this item. 
 ITEM_20150317_001290	HP Necklace 
@@ -1310,7 +1310,7 @@ ITEM_20150317_001309	Steel Necklace
 ITEM_20150317_001310	In battle, a small factor may make the difference between life and death. You certainly won't regret wearing this necklace. 
 ITEM_20150317_001311	Talisman 
 ITEM_20150317_001312	Sadly it won't help you much when studying. 
-ITEM_20150317_001313	Клайпеда Chain 
+ITEM_20150317_001313	Klaipeda Chain 
 ITEM_20150317_001314	This necklace brings out the power of the wearer's soul. 
 ITEM_20150317_001315	Might Fedimian Chain 
 ITEM_20150317_001316	Handicrafts from Fedimian have had a strong reputation for hundreds of years. You can feel the difference when you compare them to non-Fedimian items. 
@@ -1967,11 +1967,11 @@ ITEM_20150317_001966	Lv2 Card Collection
 ITEM_20150317_001967	Lv3 Card Collection 
 ITEM_20150317_001968	Lv4 Card Collection 
 ITEM_20150317_001969	Practice Anvil 
-ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Can be purchased from Tool Merchant.{nl}Right-click to use. 
+ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Purchasable from Item Merchant.{nl}Right-click to use. 
 ITEM_20150317_001971	Gaigalas Card 
 ITEM_20150317_001972	Карты
 ITEM_20150317_001973	A card containing the power of a strong monster. 
-ITEM_20150317_001974	Gorgon Card 
+ITEM_20150317_001974	Gazing Golem Card 
 ITEM_20150317_001975	Gorgon Card 
 ITEM_20150317_001976	Golem Card 
 ITEM_20150317_001977	Grinender Card 
@@ -2060,7 +2060,7 @@ ITEM_20150317_002059	Gray Golem Card
 ITEM_20150317_002060	Naktis Card 
 ITEM_20150317_002061	Link Roller Card 
 ITEM_20150317_002062	Dullahan Card 
-ITEM_20150317_002063	Ritheris Card
+ITEM_20150317_002063	Riteris Card
 ITEM_20150317_002064	Nuaele Card 
 ITEM_20150317_002065	Neob Card 
 ITEM_20150317_002066	Blut Card 
@@ -2105,196 +2105,196 @@ ITEM_20150317_002104	A long stem that tastes slightly spicy. {nl}Obtained from K
 ITEM_20150317_002105	Leaf Bug Shell 
 ITEM_20150317_002106	A thin back shell. A faint pattern is visible. {nl}Obtained from Leaf Bugs. 
 ITEM_20150317_002107	Chinency Leaf 
-ITEM_20150317_002108	A leaf that tastes slightly bitter. It becomes thicker as it gets closer to the stem. Obtained from Chinencys. 
+ITEM_20150317_002108	A leaf that tastes slightly bitter. It becomes thicker as it gets closer to the stem. {nl}Obtained from Chinencys. 
 ITEM_20150317_002109	Infro Rocktor Shell 
-ITEM_20150317_002110	A sturdy shell with a hexagonal pattern on it. Obtained from Infro Rocktors. 
+ITEM_20150317_002110	A sturdy shell with a hexagonal pattern on it. {nl}Obtained from Infro Rocktors. 
 ITEM_20150317_002111	Chupacabra Tooth 
-ITEM_20150317_002112	Small and sharp tooth. Obtained from a Chupacabra. 
+ITEM_20150317_002112	A small and sharp tooth. {nl}Obtained from a Chupacabra.
 ITEM_20150317_002113	Weaver Feeler 
 ITEM_20150317_002114	A blunt feeler with a hairy surface.{nl}Obtained from Weavers. 
 ITEM_20150317_002115	Pokubu Skin 
-ITEM_20150317_002116	Gray leather. Obtained from Pokubus. 
+ITEM_20150317_002116	Gray leather. {nl}Obtained from Pokubus. 
 ITEM_20150317_002117	Jukopus Leaf 
-ITEM_20150317_002118	It is wide and wrinkly. Obtained from Jukopuses. 
+ITEM_20150317_002118	It is wide and wrinkly. {nl}Obtained from Jukopuses. 
 ITEM_20150317_002119	Red Kepa Crystal 
-ITEM_20150317_002120	The crystal formation found inside the plant comes from the solidification of its sap. Obtained from Red Kepas. 
+ITEM_20150317_002120	The crystal formation found inside the plant comes from the solidification of its sap. {nl}Obtained from Red Kepas. 
 ITEM_20150317_002121	Large Monster Leaf 
 ITEM_20150317_002122	Material obtained from monsters. {nl} Used for crafting. 
 ITEM_20150317_002123	Vubbe Token
-ITEM_20150317_002124	A charm carried by Vubbes. It's very crudely made. Obtained from Vubbes. 
+ITEM_20150317_002124	A charm carried by Vubbes. It's very crudely made. {nl}Obtained from Vubbes. 
 ITEM_20150317_002125	Stone Orca Core 
 ITEM_20150317_002126	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly.{nl}Obtained from Stone Orcas. 
 ITEM_20150317_002127	Crystal Spider Feelers 
-ITEM_20150317_002128	Slim, black feelers. Obtained from Crystal Spiders. 
+ITEM_20150317_002128	Slim, black feelers. {nl}Obtained from Crystal Spiders. 
 ITEM_20150317_002129	Yekubite Feeler 
-ITEM_20150317_002130	Thin and sharp feelers. Obtained from Yekubites. 
+ITEM_20150317_002130	Thin and sharp feelers. {nl}Obtained from Yekubites. 
 ITEM_20150317_002131	Panto Horn 
-ITEM_20150317_002132	It can be used to craft many tools thanks to its hardness. Obtained from Pantos. 
+ITEM_20150317_002132	It can be used to craft many tools thanks to its hardness. {nl}Obtained from Pantos. 
 ITEM_20150317_002133	Zignuts Stem 
-ITEM_20150317_002134	The stem can be processed into fabric. Not suitable for eating. Obtained from Zignuts. 
+ITEM_20150317_002134	The stem can be processed into fabric. Not suitable for eating. {nl}Obtained from Zignuts. 
 ITEM_20150317_002135	Butterfly Wing 
 ITEM_20150317_002136	Care is required as it's very brittle. 
 ITEM_20150317_002137	Seed's Seed 
 ITEM_20150317_002138	Firent Flower 
-ITEM_20150317_002139	A red flower that only blooms on Firent. It has noticeably large petals. Obtained from Firent. 
+ITEM_20150317_002139	A red flower that only blooms on Firent. It has noticeably large petals. {nl}Obtained from Firent. 
 ITEM_20150317_002140	Egnome Core 
-ITEM_20150317_002141	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Egnomes. 
+ITEM_20150317_002141	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Egnomes. 
 ITEM_20150317_002142	Yognome Core 
-ITEM_20150317_002143	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Yognomes. 
+ITEM_20150317_002143	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Yognomes. 
 ITEM_20150317_002144	Violet Leaf 
 ITEM_20150317_002145	Rafflet Flower 
 ITEM_20150317_002146	Tanu Stem 
-ITEM_20150317_002147	A thick, thorny stem. Not suitable for eating. Obtained from Tanus. 
+ITEM_20150317_002147	A thick, thorny stem. Not suitable for eating. {nl}Obtained from Tanus. 
 ITEM_20150317_002148	Beetow Feeler 
-ITEM_20150317_002149	A green monster feeler. Its leatherlike toughness makes it useful as string. Obtained from Beetows. 
+ITEM_20150317_002149	A green monster feeler. Its leatherlike toughness makes it useful as string. {nl}Obtained from Beetows. 
 ITEM_20150317_002150	Maize Spore Pocket 
 ITEM_20150317_002151	Ultanun Feather 
-ITEM_20150317_002152	Feather of a common bird. Obtained from Ultanuns. 
+ITEM_20150317_002152	Feather of a common bird. {nl}Obtained from Ultanuns. 
 ITEM_20150317_002153	Karkash Mushroom 
-ITEM_20150317_002154	Mushroom that only grows on Karkash. Unpopular due to its nasty taste. Obtained from Karkashs. 
-ITEM_20150317_002155	Elravine Bone 
+ITEM_20150317_002154	Mushroom that only grows on Karkash. Unpopular due to its nasty taste. {nl}Obtained from Karkashs. 
+ITEM_20150317_002155	Elravine Bones 
 ITEM_20150317_002156	Upent Bark 
-ITEM_20150317_002157	Long wooden bark. It has many uses. Obtained from Upents. 
+ITEM_20150317_002157	Long wooden bark. It has many uses. {nl}Obtained from Upents. 
 ITEM_20150317_002158	Mantiwood Wing 
-ITEM_20150317_002159	Unlike other insect wings, it is smooth and flexible. Obtained from Mantiwoods. 
+ITEM_20150317_002159	Unlike other insect wings, it is smooth and flexible. {nl}Obtained from Mantiwoods. 
 ITEM_20150317_002160	Thornball Thorn 
 ITEM_20150317_002161	It is light and fragile due to its empty core.{nl}Obtained from Thornballs. 
 ITEM_20150317_002162	Operor Thorn 
-ITEM_20150317_002163	Due to its small size, only experienced crafters are able to use this properly. Obtained from Operors. 
+ITEM_20150317_002163	Due to its small size, only experienced crafters are able to use this properly. {nl}Obtained from Operors. 
 ITEM_20150317_002164	Bagworm Shell 
-ITEM_20150317_002165	Although too soft to be called a 'shell', a fabric can be made from it. Obtained from Bagworms. 
+ITEM_20150317_002165	Although too soft to be called a 'shell', a fabric can be made from it. {nl}Obtained from Bagworms. 
 ITEM_20150317_002166	Truffle Crystal 
-ITEM_20150317_002167	This crystal was formed by solidification of sap inside the plant comes from the solidification of its sap. Obtained from Truffles. 
+ITEM_20150317_002167	This crystal was formed by solidification of sap inside the plant comes from the solidification of its sap. {nl}Obtained from Truffles. 
 ITEM_20150317_002168	Matsum Stem 
-ITEM_20150317_002169	People sometimes boil this stem to make a drink that curbs hunger. Obtained from Matsums. 
+ITEM_20150317_002169	People sometimes boil this stem to make a drink that curbs hunger. {nl}Obtained from Matsums. 
 ITEM_20150317_002170	Merog Heart 
-ITEM_20150317_002171	Not used as a food, but often used for magic research. Obtained from Merogs. 
+ITEM_20150317_002171	Not used as a food, but often used for magic research. {nl}Obtained from Merogs. 
 ITEM_20150317_002172	Chafperor Wing 
-ITEM_20150317_002173	A transparent wing. Obtained from Chafperors. 
+ITEM_20150317_002173	A transparent wing. {nl}Obtained from Chafperors. 
 ITEM_20150317_002174	Catacomb Leafbug Shell 
-ITEM_20150317_002175	Thin back shell. A faint pattern is visible. Obtained from Catacomb Leafbugs. 
+ITEM_20150317_002175	Thin back shell. A faint pattern is visible. {nl}Obtained from Catacomb Leafbugs. 
 ITEM_20150317_002176	Candle 
 ITEM_20150317_002177	A lantern would be nice, but a candle can also be a great source of light. 
 ITEM_20150317_002178	Catacomb Maggot Feeler 
 ITEM_20150317_002179	Tontooth Thorn 
-ITEM_20150317_002180	Small but enough to inflict pain. Obtained from Tontooths. 
+ITEM_20150317_002180	Small but enough to inflict pain. {nl}Obtained from Tontooths. 
 ITEM_20150317_002181	Pino Leaf 
-ITEM_20150317_002182	A small leaf that looks like a fish scale. Obtained from Pinos. 
+ITEM_20150317_002182	A small leaf that looks like a fish scale. {nl}Obtained from Pinos. 
 ITEM_20150317_002183	Geppetto Stem 
-ITEM_20150317_002184	Frequently used in bowcrafting due to its flexible properties. Obtained from Geppettos. 
+ITEM_20150317_002184	Frequently used in bowcrafting due to its flexible properties. {nl}Obtained from Geppettos. 
 ITEM_20150317_002185	Zinute Skin 
-ITEM_20150317_002186	It shows a defined geometry. A special process is required before use due to its hardness, which is like metal. Obtained from Zinutes. 
+ITEM_20150317_002186	It shows a defined geometry. A special process is required before use due to its hardness, which is like metal. {nl}Obtained from Zinutes. 
 ITEM_20150317_002187	Desert Chupacabra Meat 
-ITEM_20150317_002188	Quite tough due to the muscle fibers but has a savory taste. Obtained from Desert Chupacabras. 
+ITEM_20150317_002188	Quite tough due to the muscle fibers but has a savory taste. {nl}Obtained from Desert Chupacabras. 
 ITEM_20150317_002189	Wendigo Tooth 
-ITEM_20150317_002190	A tooth hard enough to bite through strong wood. Obtained from Wendigos. 
+ITEM_20150317_002190	A tooth hard enough to bite through strong wood. {nl}Obtained from Wendigos. 
 ITEM_20150317_002191	Sauga Core 
-ITEM_20150317_002192	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Saugas. 
+ITEM_20150317_002192	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Saugas. 
 ITEM_20150317_002193	Lauzinute Skin 
-ITEM_20150317_002194	It is stronger than Zinute Skin. Obtained from Lauzinutes. 
+ITEM_20150317_002194	It is stronger than Zinute Skin. {nl}Obtained from Lauzinutes. 
 ITEM_20150317_002195	Hogma Tooth 
 ITEM_20150317_002196	Similar to a human tooth but larger.{nl}Obtained from Hogmas. 
 ITEM_20150317_002197	Varv Feeler 
-ITEM_20150317_002198	Whether this item has any practical use is still unclear. Obtained from Varvs. 
+ITEM_20150317_002198	Whether this item has any practical use is still unclear. {nl}Obtained from Varvs. 
 ITEM_20150317_002199	Zinutekas Core 
-ITEM_20150317_002200	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Zinutekas. 
+ITEM_20150317_002200	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Zinutekas. 
 ITEM_20150317_002201	Vesper Counterweight 
-ITEM_20150317_002202	It is still unknown as to why Vespers carry a counterweight. It certainly prevents them from flying higher. Obtained from Vespers. 
+ITEM_20150317_002202	It is still unknown as to why Vespers carry a counterweight. It certainly prevents them from flying higher. {nl}Obtained from Vespers. 
 ITEM_20150317_002203	Vikaras Core 
-ITEM_20150317_002204	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Vikarases. 
+ITEM_20150317_002204	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Vikarases. 
 ITEM_20150317_002205	Shtayim Core 
-ITEM_20150317_002206	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Shtayims. 
+ITEM_20150317_002206	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Shtayims. 
 ITEM_20150317_002207	Wheelen Core 
-ITEM_20150317_002208	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Wheelens. 
+ITEM_20150317_002208	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Wheelens. 
 ITEM_20150317_002209	Rusrat Core 
-ITEM_20150317_002210	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Rusrats. 
+ITEM_20150317_002210	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Rusrats. 
 ITEM_20150317_002211	Mauros Core 
-ITEM_20150317_002212	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Mauroses. 
+ITEM_20150317_002212	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Mauroses. 
 ITEM_20150317_002213	Wax 
 ITEM_20150317_002214	Although this can be found from many monsters, it's most easily obtainable from a Tree Ambulo.  
 ITEM_20150317_002215	Stumpy Tree Leaf 
-ITEM_20150317_002216	A rather stiff leaf. Obtained from Stumpy Trees. 
+ITEM_20150317_002216	A rather stiff leaf. {nl}Obtained from Stumpy Trees. 
 ITEM_20150317_002217	Long-Branched Tree Crystal 
-ITEM_20150317_002218	This crystal formation found inside the plant comes from the solidification of its sap. Obtained from Long-Branched Trees. 
+ITEM_20150317_002218	This crystal formation found inside the plant comes from the solidification of its sap. {nl}Obtained from Long-Branched Trees. 
 ITEM_20150317_002219	Infro Birk Shell 
-ITEM_20150317_002220	A shellpiece that can withstand heavy impact despite its thin appearance. Obtained from Infro Birks. 
+ITEM_20150317_002220	A shellpiece that can withstand heavy impact despite its thin appearance. {nl}Obtained from Infro Birks. 
 ITEM_20150317_002221	Zolem Core
-ITEM_20150317_002222	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Zolems.
+ITEM_20150317_002222	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Zolems.
 ITEM_20150317_002223	Gravegolem Core
-ITEM_20150317_002224	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Gravegolems.
+ITEM_20150317_002224	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Gravegolems.
 ITEM_20150317_002225	Hallowventer Spirit Matter 
-ITEM_20150317_002226	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. Obtained from Hallowventers. 
+ITEM_20150317_002226	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. {nl}Obtained from Hallowventers. 
 ITEM_20150317_002227	Big Cockatrice Heart 
-ITEM_20150317_002228	The heart of a beast. Similar physiological layout to the human heart. Obtained from Big Cockatrices. 
+ITEM_20150317_002228	The heart of a beast. Similar physiological layout to the human heart. {nl}Obtained from Big Cockatrices. 
 ITEM_20150317_002229	Drake Meat 
-ITEM_20150317_002230	Must be cooked for a very long time due to its resistance to fire. Because of this slow cooking, however, it is extremely delicious. Obtained from Drakes. 
+ITEM_20150317_002230	Must be cooked for a very long time due to its resistance to fire. Because of this slow cooking, however, it is extremely delicious. {nl}Obtained from Drakes. 
 ITEM_20150317_002231	Phyracon Leaf 
-ITEM_20150317_002232	Red colored leaf. Obtained from Phyracons. 
+ITEM_20150317_002232	Red colored leaf. {nl}Obtained from Phyracons. 
 ITEM_20150317_002233	Shaman Doll Core 
-ITEM_20150317_002234	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Shaman Dolls. 
+ITEM_20150317_002234	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Shaman Dolls. 
 ITEM_20150317_002235	Slime Piece 
-ITEM_20150317_002236	Due to its soft, spongy texture, it has no use except for magical research. Obtained from Slimes. 
+ITEM_20150317_002236	Due to its soft, spongy texture, it has no use except for magical research. {nl}Obtained from Slimes. 
 ITEM_20150317_002237	Arma Thorn 
-ITEM_20150317_002238	It is very thick and strong. Obtained from Armas. 
+ITEM_20150317_002238	It is very thick and strong. {nl}Obtained from Armas. 
 ITEM_20150317_002239	Green Drake Tooth 
-ITEM_20150317_002240	Handle it with care, as it can drip an acid from the tip. Obtained from Green Drakes. 
+ITEM_20150317_002240	Handle it with care, as it can drip an acid from the tip. {nl}Obtained from Green Drakes. 
 ITEM_20150317_002241	Flask Piece 
-ITEM_20150317_002242	Always be careful of broken glass shards. Obtained from Flasks. 
+ITEM_20150317_002242	Always be careful of broken glass shards. {nl}Obtained from Flasks. 
 ITEM_20150317_002243	Red Hook 
-ITEM_20150317_002244	If you don't need a hook, you can melt this to make something else. Obtained from Red Nudock Hooks. 
+ITEM_20150317_002244	If you don't need a hook, you can melt this to make something else. {nl}Obtained from Red Nudock Hooks. 
 ITEM_20150317_002245	Black Shaman Doll Core 
-ITEM_20150317_002246	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelesly. Obtained from Tama. 
+ITEM_20150317_002246	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelesly. {nl}Obtained from Tama. 
 ITEM_20150317_002247	Dimmer Marble 
-ITEM_20150317_002248	The fiery color makes this very popular as a decoration. Obtained from Dimmers. 
+ITEM_20150317_002248	The fiery color makes this very popular as a decoration. {nl}Obtained from Dimmers. 
 ITEM_20150317_002249	Black Drake Heart 
-ITEM_20150317_002250	Still beating, as if trying to prove its resilience. Obtained from Black Drakes. 
+ITEM_20150317_002250	Still beating, as if trying to prove its resilience. {nl}Obtained from Black Drakes. 
 ITEM_20150317_002251	Rocktor Skin 
 ITEM_20150317_002252	Usually used as a material for armor.{nl}Obtained from Rocktors. 
 ITEM_20150317_002253	Venucelos Core 
-ITEM_20150317_002254	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Venuceloses. 
+ITEM_20150317_002254	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Venuceloses. 
 ITEM_20150317_002255	Echad Core 
-ITEM_20150317_002256	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Echads. 
+ITEM_20150317_002256	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Echads. 
 ITEM_20150317_002257	Tama Core 
-ITEM_20150317_002258	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Tamas. 
+ITEM_20150317_002258	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Tamas. 
 ITEM_20150317_002259	Lizardman Tooth 
-ITEM_20150317_002260	If you can handle the savage Lizardmen, this tooth can be a worthy trophy. Obtained from Lizardmen. 
+ITEM_20150317_002260	If you can handle the savage Lizardmen, this tooth can be a worthy trophy. {nl}Obtained from Lizardmen. 
 ITEM_20150317_002261	Hook 
-ITEM_20150317_002262	If you don't need a hook, you can melt this to make something else. Obtained from Rusty Old Hooks. 
+ITEM_20150317_002262	If you don't need a hook, you can melt this to make something else. {nl}Obtained from Rusty Old Hooks. 
 ITEM_20150317_002263	Winged Frog Core 
-ITEM_20150317_002264	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Winged Frogs. 
-ITEM_20150317_002265	Cockatrice Bone 
-ITEM_20150317_002266	This is not a leftover chicken bone. Obtained from Cockatrices. 
+ITEM_20150317_002264	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Winged Frogs. 
+ITEM_20150317_002265	Cockatrice Bones 
+ITEM_20150317_002266	This is not a leftover chicken bone. {nl}Obtained from Cockatrices. 
 ITEM_20150317_002267	Drake Horn 
-ITEM_20150317_002268	The hardness of this horn makes it suitable to be used as a weapon. Obtained from Drakes. 
+ITEM_20150317_002268	The hardness of this horn makes it suitable to be used as a weapon. {nl}Obtained from Drakes. 
 ITEM_20150317_002269	Groll Horn 
-ITEM_20150317_002270	This is the main reason people hunt Grolls. Obtained from Grolls. 
+ITEM_20150317_002270	This is the main reason people hunt Grolls. {nl}Obtained from Grolls. 
 ITEM_20150317_002271	Blue Fragaras Stem 
-ITEM_20150317_002272	It is closer to a tendon than a stem. Obtained from Blue Fragarases. 
+ITEM_20150317_002272	It is closer to a tendon than a stem. {nl}Obtained from Blue Fragarases. 
 ITEM_20150317_002273	Vekarabe Shell 
-ITEM_20150317_002274	Feels as if it is made of rock. Obtained from Vekarabes. 
+ITEM_20150317_002274	Feels as if it is made of rock. {nl}Obtained from Vekarabes. 
 ITEM_20150317_002275	Boowook Core 
-ITEM_20150317_002276	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Boowooks. 
+ITEM_20150317_002276	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Boowooks. 
 ITEM_20150317_002277	Vubbe Bow 
-ITEM_20150317_002278	Very crudely made bow. Obtained from Vubbe Archers. 
+ITEM_20150317_002278	Very crudely made bow. {nl}Obtained from Vubbe Archers. 
 ITEM_20150317_002279	Vubbe Pickaxe 
-ITEM_20150317_002280	A pickaxe used in mines. Can be used as a weapon when needed. Obtained from Vubbe Miners. 
+ITEM_20150317_002280	A pickaxe used in mines. Can be used as a weapon when needed. {nl}Obtained from Vubbe Miners. 
 ITEM_20150317_002281	Vubbe Hood 
-ITEM_20150317_002282	According to a theory, Vubbes wear these to look fancy. Obtained from Vubbe Mages and Vubbe Shamans. 
+ITEM_20150317_002282	According to a theory, Vubbes wear these to look fancy. {nl}Obtained from Vubbe Mages and Vubbe Shamans. 
 ITEM_20150317_002283	Dandel Wing 
-ITEM_20150317_002284	Looks similar to a bat wing, but is actually a plant stem. Obtained from Dandels. 
+ITEM_20150317_002284	Looks similar to a bat wing, but is actually a plant stem. {nl}Obtained from Dandels. 
 ITEM_20150317_002285	Panto Eyebrow 
 ITEM_20150317_002286	Panto Spear Shaft 
-ITEM_20150317_002287	Spear used by the Panto. Obtained from Panto Spearmen. 
+ITEM_20150317_002287	Spear used by the Panto. {nl}Obtained from Panto Spearmen. 
 ITEM_20150317_002288	Tipio Stamen 
-ITEM_20150317_002289	You will sneeze if you breathe in the pollen from this. Obtained from Tipios. 
+ITEM_20150317_002289	You will sneeze if you breathe in the pollen from this. {nl}Obtained from Tipios. 
 ITEM_20150317_002290	Doyor Leaf Bunch 
-ITEM_20150317_002291	Perfect alternative to an umbrella. Obtained from Doyors. 
+ITEM_20150317_002291	Perfect alternative to an umbrella. {nl}Obtained from Doyors. 
 ITEM_20150317_002292	Hogma Archer Belt 
-ITEM_20150317_002293	Very strong, but crude, belt. Obtained from Hogma Archers. 
+ITEM_20150317_002293	Very strong, but crude, belt. {nl}Obtained from Hogma Archers. 
 ITEM_20150317_002294	Panto Spearhead 
-ITEM_20150317_002295	A Panto insignia is engraved onto the spear blade. Obtained from Panto Spearthrowers. 
+ITEM_20150317_002295	A Panto insignia is engraved onto the spear blade. {nl}Obtained from Panto Spearthrowers. 
 ITEM_20150317_002296	Phylogistone 
-ITEM_20150317_002297	A mysterious stone infused with the power of fire. Obtained from Drakes. 
+ITEM_20150317_002297	A mysterious stone infused with the power of fire. {nl}Obtained from Drakes. 
 ITEM_20150317_002298	Sulfur 
 ITEM_20150317_002299	A mineral that burns blue. 
 ITEM_20150317_002300	Cinnabar 
@@ -2302,25 +2302,25 @@ ITEM_20150317_002301	A red ore, the principal ingredient of Mercury.
 ITEM_20150317_002302	Bat Wing 
 ITEM_20150317_002303	A very frequently used ingredient for alchemy. 
 ITEM_20150317_002304	Glass Fragment 
-ITEM_20150317_002305	A broken glass fragment of no use. Obtained from Flasks. 
-ITEM_20150317_002306	Oak Tree 
+ITEM_20150317_002305	A broken glass fragment of no use. {nl}Obtained from Flasks. 
+ITEM_20150317_002306	Oak Wood
 ITEM_20150317_002307	An unprocessed log of wood. 
-ITEM_20150317_002308	Ash Tree 
-ITEM_20150317_002309	Pine Tree 
-ITEM_20150317_002310	Cedar Tree 
+ITEM_20150317_002308	Ash Wood 
+ITEM_20150317_002309	Pine Wood
+ITEM_20150317_002310	Cedar Wood 
 ITEM_20150317_002311	Oak Lumber 
 ITEM_20150317_002312	Processed lumber used as a material for crafting. 
 ITEM_20150317_002313	Ash Lumber 
 ITEM_20150317_002314	Pine Lumber 
 ITEM_20150317_002315	Cedar Lumber 
 ITEM_20150317_002316	Coliflower Stem 
-ITEM_20150317_002317	Very difficult to process due to abundance of thorns on the stem. Obtained from Coliflowers. 
+ITEM_20150317_002317	Very difficult to process due to abundance of thorns on the stem. {nl}Obtained from Coliflowers. 
 ITEM_20150317_002318	Altered Sauga Core 
-ITEM_20150317_002319	Core that has been modified for greater output. Obtained from Saugas. 
+ITEM_20150317_002319	Core that has been modified for greater output. {nl}Obtained from Saugas. 
 ITEM_20150317_002320	Dandel Crystal 
-ITEM_20150317_002321	This crystal formation found inside the plant comes from the solidification of its sap. Obtained from Dandels. 
+ITEM_20150317_002321	This crystal formation found inside the plant comes from the solidification of its sap. {nl}Obtained from Dandels. 
 ITEM_20150317_002322	Bagworm Poison 
-ITEM_20150317_002323	Not suitable for drinking! Obtained from Bagworms. 
+ITEM_20150317_002323	Not suitable for drinking! {nl}Obtained from Bagworms. 
 ITEM_20150317_002324	Broadhead Arrow 
 ITEM_20150317_002325	An arrowhead used for hunting. It has a broad edge to assist in hunting. 
 ITEM_20150317_002326	Bodkin Point Arrow 
@@ -2328,7 +2328,7 @@ ITEM_20150317_002327	A very narrow, pointy arrowhead optimized for armor piercin
 ITEM_20150317_002328	Hail Mary Arrow 
 ITEM_20150317_002329	An arrowhead designed to carry payload of explosives. 
 ITEM_20150317_002330	Wendigo Fang 
-ITEM_20150317_002331	An intact Wendigo Fang that can fetch a great price. Obtained from Wendigo.s 
+ITEM_20150317_002331	An intact Wendigo Fang that can fetch a great price. {nl}Obtained from Wendigos. 
 ITEM_20150317_002332	Gold Bar 
 ITEM_20150317_002333	A bar of gold. It is obviously worth a lot. 
 ITEM_20150317_002334	Mercury 
@@ -2342,13 +2342,13 @@ ITEM_20150317_002341	Shiny Skin
 ITEM_20150317_002342	Hanaming Aroma 
 ITEM_20150317_002343	Hanaming Crystal 
 ITEM_20150317_002344	Chinency Root 
-ITEM_20150317_002345	Infro Rocktor Bone 
-ITEM_20150317_002346	It's not only the shell that's sturdy, but also the insides. Obtained from Infro Rocktors. 
+ITEM_20150317_002345	Infro Rocktor Bones 
+ITEM_20150317_002346	It's not only the shell that's sturdy, but also the insides. {nl}Obtained from Infro Rocktors. 
 ITEM_20150317_002347	Talt 
 ITEM_20150317_002348	A strange gemstone sometimes found in monsters. Attracted by its mysterious color, many collectors seek this gem. One curious amasser reported the stone to have a very salty taste.
 ITEM_20150317_002349	Chupacabra Skin 
 ITEM_20150317_002350	Chupacabra Eyeball 
-ITEM_20150317_002351	Popolion Bone 
+ITEM_20150317_002351	Popolion Bones 
 ITEM_20150317_002352	Popolion Leaf 
 ITEM_20150317_002353	Weaver Skin 
 ITEM_20150317_002354	Weaver Venom 
@@ -2359,48 +2359,48 @@ ITEM_20150317_002358	Jukopus Rope
 ITEM_20150317_002359	Red Kepa Stem 
 ITEM_20150317_002360	Vubbe Spear Head 
 ITEM_20150317_002361	Vubbe Blood 
-ITEM_20150317_002362	Green in color, this blood is obtained from Vubbes. 
+ITEM_20150317_002362	Vubbe's blood is green. {nl}Obtained from Vubbes. 
 ITEM_20150317_002363	Raflower Root 
 ITEM_20150317_002364	Raflower Crystal 
 ITEM_20150317_002365	Stone Orca Piece 
 ITEM_20150317_002366	Bat Tooth 
-ITEM_20150317_002367	Bats use their teeth to suck blood from their target. Obtained from Bats. 
+ITEM_20150317_002367	Bats use their teeth to suck blood from their target. {nl}Obtained from Bats. 
 ITEM_20150317_002368	Shredded Piece of Cloth 
-ITEM_20150317_002369	An old piece of cloth. Obtained from Shreddeds. 
+ITEM_20150317_002369	An old piece of cloth. {nl}Obtained from Shreddeds. 
 ITEM_20150317_002370	Shredded Spirit Matter 
-ITEM_20150317_002371	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. Obtained from Shreddeds. 
+ITEM_20150317_002371	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. {nl}Obtained from Shreddeds. 
 ITEM_20150317_002372	Yekubite Tooth 
-ITEM_20150317_002373	A tooth that has developed to crush meat. Obtained from Yekubites. 
+ITEM_20150317_002373	A tooth that has developed to crush meat. {nl}Obtained from Yekubites. 
 ITEM_20150317_002374	Yekubite Crystal 
-ITEM_20150317_002375	A crystal that only grows on the tail of a Yekubite. It grows in size as its host matures. Obtained from Yekubites. 
+ITEM_20150317_002375	A crystal that only grows on the tail of a Yekubite. It grows in size as its host matures. {nl}Obtained from Yekubites. 
 ITEM_20150317_002376	Crystal Spider Shell 
 ITEM_20150317_002377	Crystal Spider Crystal 
-ITEM_20150317_002378	If you're blinded by the crystals, you won't notice the monster lurking beneath. Obtained from Crystal Spiders. 
+ITEM_20150317_002378	If you're blinded by the crystals, you won't notice the monster lurking beneath. {nl}Obtained from Crystal Spiders. 
 ITEM_20150317_002379	Vubbe Fighter Blood 
-ITEM_20150317_002380	Vubbe blood that is thicker and more viscous than normal. Obtained from Vubbe Fighters. 
+ITEM_20150317_002380	Vubbe blood that is thicker and more viscous than normal. {nl}Obtained from Vubbe Fighters. 
 ITEM_20150317_002381	Zignuts Fruit 
 ITEM_20150317_002382	Zignuts Seed 
 ITEM_20150317_002383	Panto Leaf Decoration 
 ITEM_20150317_002384	Hummingbird Wing 
-ITEM_20150317_002385	A wing that has the shape of a flower petal. Obtained from Hummingbirds. 
+ITEM_20150317_002385	A wing that has the shape of a flower petal. {nl}Obtained from Hummingbirds. 
 ITEM_20150317_002386	Hummingbird Feeler 
 ITEM_20150317_002387	Hummingbird Wing Power 
 ITEM_20150317_002388	Leafly Wing 
-ITEM_20150317_002389	Always be careful with the wings of an insect. Obtained from Leaflies. 
+ITEM_20150317_002389	Always be careful with the wings of an insect. {nl}Obtained from Leaflies. 
 ITEM_20150317_002390	Leafly Feeler 
 ITEM_20150317_002391	Leafly Egg 
 ITEM_20150317_002392	Seedmia Seed 
-ITEM_20150317_002393	What is it like to grow a Seedmia? Obtained from Seedmias. 
+ITEM_20150317_002393	What is it like to grow a Seedmia? {nl}Obtained from Seedmias. 
 ITEM_20150317_002394	Seedmia Pollen 
 ITEM_20150317_002395	Drake Epaulet 
 ITEM_20150317_002396	Firent Skin 
-ITEM_20150317_002397	It looks similar to a normal tree. Obtained from Firents. 
+ITEM_20150317_002397	It looks similar to a normal tree. {nl}Obtained from Firents. 
 ITEM_20150317_002398	Broken Panto Sword 
 ITEM_20150317_002399	It might be usable if repaired.{nl}Obtained from Panto Fighters. 
 ITEM_20150317_002400	Panto Hoof 
 ITEM_20150317_002401	Panto Shaman Wand Decoration 
 ITEM_20150317_002402	Mallardu Meat 
-ITEM_20150317_002403	A good source of protein. Obtained from Mallardus. 
+ITEM_20150317_002403	A good source of protein. {nl}Obtained from Mallardus. 
 ITEM_20150317_002404	Mallardu Feather 
 ITEM_20150317_002405	Mallardu Beak 
 ITEM_20150317_002406	Violet Flower 
@@ -2409,21 +2409,21 @@ ITEM_20150317_002408	Obtained from Yognomes.
 ITEM_20150317_002409	Yognome Fragment 
 ITEM_20150317_002410	Obtained from Egnomes. 
 ITEM_20150317_002411	Egnome Fragment 
-ITEM_20150317_002412	A piece of metal haunted by an evil spirit. Obtained from Egnomes. 
+ITEM_20150317_002412	A piece of metal haunted by an evil energy. {nl}Obtained from Egnomes. 
 ITEM_20150317_002413	Rodelin Wing 
 ITEM_20150317_002414	Rodelin Cloth Piece 
-ITEM_20150317_002415	Pawnd's Hair 
+ITEM_20150317_002415	Pawnd Hair 
 ITEM_20150317_002416	Pawnd Bow 
-ITEM_20150317_002417	Pawndel's Hair 
+ITEM_20150317_002417	Pawndel Hair 
 ITEM_20150317_002418	Pawndel Shaft 
-ITEM_20150317_002419	Because the metal is crafted by magic, it usually disintegrates when the monster dies. Very rarely will it stay intact. Obtained from Pawndels. 
+ITEM_20150317_002419	Because the metal is crafted by magic, it usually disintegrates when the monster dies. Very rarely will it stay intact. {nl}Obtained from Pawndels. 
 ITEM_20150317_002420	Galok Leather 
-ITEM_20150317_002421	The leather of a very strong demon that has very high durability. Obtained from Galoks. 
+ITEM_20150317_002421	The leather of a very strong demon that has very high durability. {nl}Obtained from Galoks. 
 ITEM_20150317_002422	Galok Claw 
-ITEM_20150317_002423	Glizardon Bone 
-ITEM_20150317_002424	You need to face great danger to obtain this. Obtained from Glizardons. 
+ITEM_20150317_002423	Glizardon Bones 
+ITEM_20150317_002424	You need to face great danger to obtain this. {nl}Obtained from Glizardons. 
 ITEM_20150317_002425	Glizardon Heart 
-ITEM_20150317_002426	This heart is blessed with a great life force, but cursed with a powerful evil aura. Obtained from Glizardons. 
+ITEM_20150317_002426	This heart is blessed with a great life force, but cursed with a powerful evil energy. {nl}Obtained from Glizardons. 
 ITEM_20150317_002427	Glizardon Tail 
 ITEM_20150317_002428	Pure Crystal 
 ITEM_20150317_002429	A gemstone carried by many powerful monsters in the Crystal Mine.{nl}Obtained from Carapaces and Specter Monarchs. 
@@ -2433,38 +2433,38 @@ ITEM_20150317_002432	Lapas Resin
 ITEM_20150317_002433	Judas Crystal 
 ITEM_20150317_002434	Seed Oil 
 ITEM_20150317_002435	Maize Spore Pocket 
-ITEM_20150317_002436	If you're not careful, the pocket may burst and the spores will fly out. Obtained from Maizes. 
+ITEM_20150317_002436	If you're not careful, the pocket may burst and the spores will fly out. {nl}Obtained from Maizes. 
 ITEM_20150317_002437	Maize Leaf 
 ITEM_20150317_002438	Maize Eyeball 
 ITEM_20150317_002439	Fishing Rod 
 ITEM_20150317_002440	Obtained from Fishermen. 
 ITEM_20150317_002441	Fisherman Core 
 ITEM_20150317_002442	Kitchen Knife 
-ITEM_20150317_002443	A dented kitchen knife. Obtained from Brown Zigris. 
+ITEM_20150317_002443	A dented kitchen knife. {nl}Obtained from Brown Zigris. 
 ITEM_20150317_002444	Large Hook 
-ITEM_20150317_002445	If you don't need this hook, you can melt this to craft something else. Obtained from Green Puragis. 
+ITEM_20150317_002445	If you don't need this hook, you can melt this to craft something else. {nl}Obtained from Green Puragis. 
 ITEM_20150317_002446	Banshee Spirit Matter 
-ITEM_20150317_002447	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. Obtained from Banshees. 
+ITEM_20150317_002447	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. {nl}Obtained from Banshees. 
 ITEM_20150317_002448	Pluplu Arrow 
 ITEM_20150317_002449	This noise-making arrow can be used to alert caution or send signals to others. 
 ITEM_20150317_002450	Red Eye of Shtayim 
 ITEM_20150317_002451	Blue Eye of Echad 
 ITEM_20150317_002452	Grummer Leaf 
-ITEM_20150317_002453	A leaf full of smaller needle-like leaves. Obtained from Grummers. 
+ITEM_20150317_002453	A leaf full of smaller needle-like leaves. {nl}Obtained from Grummers. 
 ITEM_20150317_002454	Sticky Liquid 
 ITEM_20150317_002455	Latex 
 ITEM_20150317_002456	Fat 
 ITEM_20150317_002457	Pokubon Meat 
 ITEM_20150317_002458	Obtained from Pokubons. 
-ITEM_20150317_002459	Luxodon Meat 
-ITEM_20150317_002460	A fatty meat. Obtained from Luxodons. 
+ITEM_20150317_002459	Rocksodon Meat 
+ITEM_20150317_002460	A fatty meat. {nl}Obtained from Rocksodons. 
 ITEM_20150317_002461	Ansur 
 ITEM_20150317_002462	Veonol 
 ITEM_20150317_002463	Daer 
 ITEM_20150317_002464	Penol 
 ITEM_20150317_002465	Arah 
 ITEM_20150317_002466	Bushspider Leaf 
-ITEM_20150317_002467	A flat leaf. Obtained from Bushspiders. 
+ITEM_20150317_002467	A flat leaf. {nl}Obtained from Bushspiders. 
 ITEM_20150317_002468	Gigantic Shinbone 
 ITEM_20150317_002469	A very large shinbone.{nl}Obtained from Hogma Warriors. 
 ITEM_20150317_002470	Black Desmodus Tooth 
@@ -2474,14 +2474,14 @@ ITEM_20150317_002473	A chicken egg often used in cooking.
 ITEM_20150317_002474	Oxygen Pocket 
 ITEM_20150317_002475	Obtained from Codomors. 
 ITEM_20150317_002476	Groll Tooth 
-ITEM_20150317_002477	Grolls usually attack with their horns, but sometimes will also use their teeth. Obtained from Grolls. 
+ITEM_20150317_002477	Grolls usually attack with their horns, but sometimes will also use their teeth. {nl}Obtained from Grolls. 
 ITEM_20150317_002478	Griba Bamboo Hat
 ITEM_20150317_002479	Obtained from Red Gribas.
 ITEM_20150317_002480	Gribaru Bamboo Hat
 ITEM_20150317_002481	Wooden Pile 
 ITEM_20150317_002482	Obtained from Kowaks. 
 ITEM_20150317_002483	Rusted Scrap Metal 
-ITEM_20150317_002484	Useless scrap metal that has rusted. Obtained from Vubbe Warriors. 
+ITEM_20150317_002484	Useless scrap metal that has rusted. {nl}Obtained from Vubbe Warriors. 
 ITEM_20150317_002485	Dark Slime Fragment 
 ITEM_20150317_002486	Ducky Beak 
 ITEM_20150317_002487	Obtained from Duckys. 
@@ -2490,7 +2490,7 @@ ITEM_20150317_002489	Obtained from Desmoduses.
 ITEM_20150317_002490	Denden Petal 
 ITEM_20150317_002491	Obtained from Dendens. 
 ITEM_20150317_002492	Doyor Claw 
-ITEM_20150317_002493	This claw helps Doyors to move faster. Obtained from Doyors. 
+ITEM_20150317_002493	This claw helps Doyors to move faster. {nl}Obtained from Doyors. 
 ITEM_20150317_002494	Drake Film 
 ITEM_20150317_002495	Once ripped, it cannot be repaired.{nl}Obtained from Drakes. 
 ITEM_20150317_002496	Drape Poisoned Needle 
@@ -2498,20 +2498,20 @@ ITEM_20150317_002497	Lafsave Leaf
 ITEM_20150317_002498	Obtained from Lafsaves. 
 ITEM_20150317_002499	Rafflesia Poison Extract 
 ITEM_20150317_002500	Obtained from Black Rafflesias. 
-ITEM_20150317_002501	Rambear Bone 
+ITEM_20150317_002501	Rambear Bones 
 ITEM_20150317_002502	Ravinelarvae Acid Sap 
 ITEM_20150317_002503	Obtained from Ravinelarvae. 
 ITEM_20150317_002504	Rubblem Fragment 
 ITEM_20150317_002505	It looks like a plain rock.{nl}Obtained from Rubblems. 
 ITEM_20150317_002506	Rubblem core 
-ITEM_20150317_002507	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Rubblems. 
+ITEM_20150317_002507	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. {nl}Obtained from Rubblems. 
 ITEM_20150317_002508	Lemur Tail 
 ITEM_20150317_002509	Lemuria Tail 
 ITEM_20150317_002510	Lepusbunny Hair 
-ITEM_20150317_002511	Luxodon Ivory 
-ITEM_20150317_002512	A very rare material, used often in handicrafts and decorations. Obtained from Luxodons. 
-ITEM_20150317_002513	Luxodon Backbone 
-ITEM_20150317_002514	A very large bone from the back of a beast.{nl}Obtained from Luxodons. 
+ITEM_20150317_002511	Rocksodon Ivory 
+ITEM_20150317_002512	A very rare material, used often in handicrafts and decorations. {nl}Obtained from Rocksodons. 
+ITEM_20150317_002513	Rocksodon Backbones
+ITEM_20150317_002514	A very large bone from the back of a beast. {nl}Obtained from Rocksodons. 
 ITEM_20150317_002515	Rubabos Leather 
 ITEM_20150317_002516	Obtained from Rubaboses. 
 ITEM_20150317_002517	Lizardman Claw 
@@ -2523,27 +2523,27 @@ ITEM_20150317_002522	Obtained from Leafnuts.
 ITEM_20150317_002523	Specter Hood 
 ITEM_20150317_002524	Obtained from Specters. 
 ITEM_20150317_002525	Medakia Metal Decoration 
-ITEM_20150317_002526	Engraved with an emblem only seen in the Royal Mausoleum. Obtained from Medakias.
+ITEM_20150317_002526	Engraved with an emblem only seen in the Royal Mausoleum. {nl}Obtained from Medakias.
 ITEM_20150317_002527	Madakia Horn 
-ITEM_20150317_002528	Horn made of stone. Obtained from Madakias. 
+ITEM_20150317_002528	Horn made of stone. {nl}Obtained from Madakias. 
 ITEM_20150317_002529	Mantiwood Skin 
-ITEM_20150317_002530	A skin made of wood. Obtained from Mantiwoods. 
+ITEM_20150317_002530	A skin made of wood. {nl}Obtained from Mantiwoods. 
 ITEM_20150317_002531	Meleech Foreleg 
 ITEM_20150317_002532	Obtained from Meleeches. 
 ITEM_20150317_002533	Moglan Meat 
 ITEM_20150317_002534	Obtained from Moglans. 
-ITEM_20150317_002535	Moyabu Bone 
+ITEM_20150317_002535	Moyabu Bones 
 ITEM_20150317_002536	Obtained from Moyabus. 
 ITEM_20150317_002537	Minivern Skin 
-ITEM_20150317_002538	It is strong enough to deflect arrows. Obtained from Miniverns. 
+ITEM_20150317_002538	It is strong enough to deflect arrows. {nl}Obtained from Miniverns. 
 ITEM_20150317_002539	Bavon Feather 
 ITEM_20150317_002540	Obtained from Bavons. 
 ITEM_20150317_002541	Varv Skin 
-ITEM_20150317_002542	Defeating a Varv while keeping its skin intact is a difficult task. Obtained from Varvs. 
+ITEM_20150317_002542	Defeating a Varv while keeping its skin intact is a difficult task. {nl}Obtained from Varvs. 
 ITEM_20150317_002543	Wheel 
-ITEM_20150317_002544	It rolls. Obtained from Wheelens. 
+ITEM_20150317_002544	It rolls. {nl}Obtained from Wheelens. 
 ITEM_20150317_002545	Banshee Hood 
-ITEM_20150317_002546	Unbelievably lightweight. Obtained from Banshees. 
+ITEM_20150317_002546	Unbelievably lightweight. {nl}Obtained from Banshees. 
 ITEM_20150317_002547	Velwriggler Feather 
 ITEM_20150317_002548	Violet Leaf 
 ITEM_20150317_002549	Obtained from Rafflies. 
@@ -2554,11 +2554,11 @@ ITEM_20150317_002553	Obtained from Beeteroses.
 ITEM_20150317_002554	Big Griba Bamboo Hat
 ITEM_20150317_002555	Obtained from Big Gribas.
 ITEM_20150317_002556	Big Cockatrice Beak 
-ITEM_20150317_002557	Your shield may shatter if you try to block an attack from this. Obtained from Big Cockatrices. 
+ITEM_20150317_002557	Your shield may shatter if you try to block an attack from this. {nl}Obtained from Big Cockatrices. 
 ITEM_20150317_002558	Desert Chupacabra Skin 
 ITEM_20150317_002559	Although it is only obtainable in small quantities, it has many uses and purposes.{nl}Obtained from Desert Chupacabras. 
 ITEM_20150317_002560	Sauga Motor Drive
-ITEM_20150317_002561	A mechanism that enables easier control of magical power. Obtained from Saugas. 
+ITEM_20150317_002561	A mechanism that enables easier control of magical power. {nl}Obtained from Saugas. 
 ITEM_20150317_002562	Cire Leaf 
 ITEM_20150317_002563	Sakmoli Stem 
 ITEM_20150317_002564	Obtained from Sakmolis. 
@@ -2566,19 +2566,19 @@ ITEM_20150317_002565	Shardstatue Claw
 ITEM_20150317_002566	Resin 
 ITEM_20150317_002567	A viscous, sticky liquid found inside trees. 
 ITEM_20150317_002568	Shnayim Fragment 
-ITEM_20150317_002569	It looks like a plain rock. Obtained from Shnayims. 
+ITEM_20150317_002569	It looks like a plain rock. {nl}Obtained from Shnayims. 
 ITEM_20150317_002570	Stoulet Heart 
 ITEM_20150317_002571	Obtained from Stoulets. 
 ITEM_20150317_002572	Corpse Hand 
-ITEM_20150317_002573	It smells extremely foul due to its decay. Obtained from Green Apparitions. 
-ITEM_20150317_002574	Armorite Plate 
-ITEM_20150317_002575	A black metal that can be processed only at extremely high temperatures. Obtained from Armorites. 
+ITEM_20150317_002573	It smells extremely foul due to its decay. {nl}Obtained from Green Apparitions. 
+ITEM_20150317_002574	Armori Plate 
+ITEM_20150317_002575	A black metal that can be processed only at extremely high temperatures. {nl}Obtained from Armori. 
 ITEM_20150317_002576	Ammon Backbone 
-ITEM_20150317_002577	Each spine bone has a horn. Obtained from Ammons. 
+ITEM_20150317_002577	Each spine bone has a horn. {nl}Obtained from Ammons. 
 ITEM_20150317_002578	Glow Spore 
 ITEM_20150317_002579	Obtained from Red Medewsas. 
-ITEM_20150317_002580	Ultanun Bone 
-ITEM_20150317_002581	The anatomy doesn't seem too different from that of birds. Obtained from Ultanuns. 
+ITEM_20150317_002580	Ultanun Bones 
+ITEM_20150317_002581	The anatomy doesn't seem too different from that of birds. {nl}Obtained from Ultanuns. 
 ITEM_20150317_002582	Ellogua Petal 
 ITEM_20150317_002583	Obtained from Elloguas. 
 ITEM_20150317_002584	Ellomago Leaf 
@@ -2586,49 +2586,49 @@ ITEM_20150317_002585	Obtained from Ellomagos.
 ITEM_20150317_002586	Ellom Bell 
 ITEM_20150317_002587	Obtained from Elloms. 
 ITEM_20150317_002588	Ellom Crystal 
-ITEM_20150317_002589	Infroholder Bone 
+ITEM_20150317_002589	Infroholder Bones 
 ITEM_20150317_002590	Obtained from Infroholders. 
 ITEM_20150317_002591	Nymph Wand Decoration 
 ITEM_20150317_002592	Obtained from Terra Imps. 
 ITEM_20150317_002593	Geppetto Leaf 
 ITEM_20150317_002594	A small, arrowhead shaped leaf.{nl}Obtained from Geppettos. 
 ITEM_20150317_002595	Shackle 
-ITEM_20150317_002596	Usually found cuffed to a criminal, but it seems like there are also other uses for it. Obtained from Dumaros. 
+ITEM_20150317_002596	Usually found cuffed to a criminal, but it seems like there are also other uses for it. {nl}Obtained from Dumaros. 
 ITEM_20150317_002597	Shaman Doll Cotton 
-ITEM_20150317_002598	Cotton with good heat retention properties. Obtained from Shaman Dolls. 
+ITEM_20150317_002598	Cotton with good heat retention properties. {nl}Obtained from Shaman Dolls. 
 ITEM_20150317_002599	Green Ellom Bell 
 ITEM_20150317_002600	Obtained from Green Elloms. 
 ITEM_20150317_002601	Chupaluka Meat 
 ITEM_20150317_002602	Karas Fragment 
-ITEM_20150317_002603	It looks like a plain rock. Obtained from Karases. 
+ITEM_20150317_002603	It looks like a plain rock. {nl}Obtained from Karases. 
 ITEM_20150317_002604	Caro Leaf 
-ITEM_20150317_002605	A widely bent leaf. Obtained from Caros. 
+ITEM_20150317_002605	A widely bent leaf. {nl}Obtained from Caros. 
 ITEM_20150317_002606	Kepa Raider Tooth 
 ITEM_20150317_002607	Obtained from Kepa Raiders. 
 ITEM_20150317_002608	Corylus Horn 
-ITEM_20150317_002609	The main horn has smaller horns around it. Obtained from Coryluses. 
+ITEM_20150317_002609	The main horn has smaller horns around it. {nl}Obtained from Coryluses. 
 ITEM_20150317_002610	Cockatrice Leather 
-ITEM_20150317_002611	Suitable for crafting armor due to its stiffness. Obtained from Cockatrices. 
+ITEM_20150317_002611	Suitable for crafting armor due to its stiffness. {nl}Obtained from Cockatrices. 
 ITEM_20150317_002612	Cockatrice Feather 
-ITEM_20150317_002613	A shiny feather. Obtained from Cockatrices. 
+ITEM_20150317_002613	A shiny feather. {nl}Obtained from Cockatrices. 
 ITEM_20150317_002614	Colimen Flower 
 ITEM_20150317_002615	Obtained from Colimens. 
 ITEM_20150317_002616	Colitile Feeler 
 ITEM_20150317_002617	Obtained from Colitiles. 
 ITEM_20150317_002618	Cronewt Leather
 ITEM_20150317_002619	Obtained from Cronewts. 
-ITEM_20150317_002620	Chromadog Bone 
-ITEM_20150317_002621	A very solid, dense bone. Obtained from Chromadogs. 
+ITEM_20150317_002620	Chromadog Bones 
+ITEM_20150317_002621	A very solid, dense bone. {nl}Obtained from Chromadogs. 
 ITEM_20150317_002622	Tanu Flower 
-ITEM_20150317_002623	A white flower with fragrant smell. Obtained from Tanus. 
+ITEM_20150317_002623	A white flower with fragrant smell. {nl}Obtained from Tanus. 
 ITEM_20150317_002624	Tama Skin 
 ITEM_20150317_002625	Unlike other eggs, it has a very thick shell.{nl}Obtained from Tamas. 
 ITEM_20150317_002626	Tontulia Thorn 
 ITEM_20150317_002627	A thorn that widely varies in its size.{nl}Obtained from Tontulia. 
 ITEM_20150317_002628	Tucen Skin 
 ITEM_20150317_002629	Due to its shininess and stiffness, people often mistake it for metal. 
-ITEM_20150317_002630	Ticen Bone 
-ITEM_20150317_002631	Surprisingly, this bone is very elastic. Obtained from Ticens. 
+ITEM_20150317_002630	Ticen Bones 
+ITEM_20150317_002631	Surprisingly, this bone is very elastic. {nl}Obtained from Ticens. 
 ITEM_20150317_002632	Pipe 
 ITEM_20150317_002633	Obtained from Hounds. 
 ITEM_20150317_002634	Pokubon Leather 
@@ -2637,15 +2637,15 @@ ITEM_20150317_002636	Blue Vubbe Fighter Token
 ITEM_20150317_002637	Flibo Stem 
 ITEM_20150317_002638	Obtained from Flibos. 
 ITEM_20150317_002639	Pino Stem 
-ITEM_20150317_002640	Not recommended for consumption. Obtained from Pinos. 
+ITEM_20150317_002640	Not recommended for consumption. {nl}Obtained from Pinos. 
 ITEM_20150317_002641	Hamming Leaf 
 ITEM_20150317_002642	High Vubbe Cross Stick 
 ITEM_20150317_002643	High Vubbe Token 
 ITEM_20150317_002644	Obtained from High Vubbes. 
-ITEM_20150317_002645	Hallowventer Hand Bone 
-ITEM_20150317_002646	More like a weapon than a hand bone. Obtained from Hallowventers. 
+ITEM_20150317_002645	Hallowventer Hand Bones 
+ITEM_20150317_002646	More like a weapon than a hand bone. {nl}Obtained from Hallowventers. 
 ITEM_20150317_002647	Hogma Battle Boss Fang 
-ITEM_20150317_002648	A lot larger than other Hogma's fangs. Obtained from Hogma Captains. 
+ITEM_20150317_002648	A lot larger than other Hogma's fangs. {nl}Obtained from Hogma Captains. 
 ITEM_20150317_002649	Gray Yukopus Leaf 
 ITEM_20150317_002650	Fallenlem Fragment 
 ITEM_20150317_002651	Obtained from Fallenlems. 
@@ -2655,7 +2655,7 @@ ITEM_20150317_002654	Black Market Seal
 ITEM_20150317_002655	White Mucus 
 ITEM_20150317_002656	Florr 
 ITEM_20150317_002657	Used for crafting items. 
-ITEM_20150317_002658	Rough Bone Powder 
+ITEM_20150317_002658	Rough Bones Powder 
 ITEM_20150317_002659	Tendon 
 ITEM_20150317_002660	Hardener
 ITEM_20150317_002661	Tough Tendon 
@@ -2676,27 +2676,27 @@ ITEM_20150317_002675	Obtained from Cerberus.
 ITEM_20150317_002676	Chapparition's Soul Matter 
 ITEM_20150317_002677	Obtained from Chapparition. 
 ITEM_20150317_002678	Siela 
-ITEM_20150317_002679	Obtained from Level 80 missions. 
+ITEM_20150317_002679	Obtained from the level 80 mission. 
 ITEM_20150317_002680	Vejo Boots Leather 
-ITEM_20150317_002681	 
+ITEM_20150317_002681	Obtained from Colimencia of the Indigo Trees Plateau quest.
 ITEM_20150317_002682	Vejo Boots String 
-ITEM_20150317_002683	 
+ITEM_20150317_002683	Obtained from Merge from the Seventune Mesa quest.
 ITEM_20150317_002684	Saphie Chain 
-ITEM_20150317_002685	A material required for crafting the Saphie Necklace. Obtained from Poata at Gate Route. 
+ITEM_20150317_002685	A material required for crafting the Saphie Necklace. {nl}Obtained from Poata at Gate Route. 
 ITEM_20150317_002686	Saphie Stone 
-ITEM_20150317_002687	 
+ITEM_20150317_002687	A material required for crafting the Saphie Necklace. {nl}Obtained from Rikaus in Spineheart Dale.
 ITEM_20150317_002688	Bramble Thorn 
-ITEM_20150317_002689	 
+ITEM_20150317_002689	A material required for crafting the Saphie Necklace. {nl}Obtained from Bramble in Fallen Worry Forest.
 ITEM_20150317_002690	Yonazolem Fragment 
-ITEM_20150317_002691	 
+ITEM_20150317_002691	Obtained from Yonazolem in Broken Pillar Canyon.
 ITEM_20150317_002692	Denoptic Eye 
 ITEM_20150317_002693	Obtained from Denoptic at Overlong Bridge Valley. 
 ITEM_20150317_002694	Scorpio Hook 
 ITEM_20150317_002695	It can be obtained from Scorpios in Stone Pole Platform. 
 ITEM_20150317_002696	Gem Abrasive Agent 
 ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems. 
-ITEM_20150317_002698	Tomblord Chain 
-ITEM_20150317_002699	Obtained from Tomblord at Royal Mausoleum 2F.
+ITEM_20150317_002698	Tomb Lord Chain 
+ITEM_20150317_002699	Obtained from Tomb Lord at Royal Mausoleum 2F.
 ITEM_20150317_002700	Bearkaras Fragment 
 ITEM_20150317_002701	Obtained from Bearkaras at Royal Mausoleum 4F.
 ITEM_20150317_002702	Rexipher's Innocent Evil 
@@ -2705,16 +2705,16 @@ ITEM_20150317_002704	Aging Relic
 ITEM_20150317_002705	An old relic found in a well. {nl}Right-click to use. 
 ITEM_20150317_002706	Charcoal Stone 
 ITEM_20150317_002707	Ore 
-ITEM_20150317_002708	Unicorn Bone 
-ITEM_20150317_002709	 
+ITEM_20150317_002708	Unicorn Bones 
+ITEM_20150317_002709	Obtained from Unicorn at Remaining Tree Dale.
 ITEM_20150317_002710	Reaverpede Leather 
-ITEM_20150317_002711	 
+ITEM_20150317_002711	Obtained from Reaverpede at Languish Wood Valley. 
 ITEM_20150317_002712	Devilglove Fragment 
-ITEM_20150317_002713	 
+ITEM_20150317_002712	Obtained from Devilglove at Crystal Creek.
 ITEM_20150317_002714	Moa Feather 
-ITEM_20150317_002715	 
+ITEM_20150317_002715	Obtained from Moa in Crystal Creek. 
 ITEM_20150317_002716	Parchment 
-ITEM_20150317_002717	Luxurious parchment that can be used to write anything. Purchasable from the Pardoner Master. 
+ITEM_20150317_002717	Luxurious parchment that can be used to write anything. {nl}Purchasable from the Pardoner Master. 
 ITEM_20150317_002718	Synthetic Stone 
 ITEM_20150317_002719	A material used for item synthesis. 
 ITEM_20150317_002720	String Amulet 
@@ -2737,7 +2737,7 @@ ITEM_20150317_002736	Mithril Ore
 ITEM_20150317_002737	A shining, silvery ore. Since it contains magic power, it is used for crafting powerful equipment. 
 ITEM_20150317_002738	Orichalcum Ore 
 ITEM_20150317_002739	Ithildin Ore 
-ITEM_20150317_002740	During the Kingdom's founding period, it used to be a precious metal that could only be mined with the guidance of the goddess. Nowadays, it is more common.
+ITEM_20150317_002740	During the kingdom's founding period, it used to be a precious metal that could only be mined with the guidance of the goddess. Nowadays, it is more common.
 ITEM_20150317_002741	Annotation 
 ITEM_20150317_002742	Obtainable from Corylus. 
 ITEM_20150317_002743	Titanium 
@@ -2759,15 +2759,15 @@ ITEM_20150317_002758	Green gemstone said to protect the holder from evil spirits
 ITEM_20150317_002759	Zircon 
 ITEM_20150317_002760	A brown colored gem. 
 ITEM_20150317_002761	Pyrite 
-ITEM_20150317_002762	A stone containing the condensed power of flame. Purchasable from the Pyromancer Master. 
+ITEM_20150317_002762	A stone containing the condensed power of flame. {nl}Purchasable from the Pyromancer Master. 
 ITEM_20150317_002763	Bloodstone 
 ITEM_20150317_002764	A blood-colored gemstone.{nl}It is said to have healing powers. 
 ITEM_20150317_002765	Cryorite 
 ITEM_20150317_002766	A stone infused with the power of frost. 
 ITEM_20150317_002767	Pyrostone 
-ITEM_20150317_002768	Pyrite enhanced and processed by magic. The recipe can be purchased from the Tool Shop Merchant. 
+ITEM_20150317_002768	Pyrite enhanced and processed by magic. The recipe can be purchased from the Item Merchant. 
 ITEM_20150317_002769	Cryostone 
-ITEM_20150317_002770	Cryorite enhanced and processed by magic.{nl}The recipe can be purchased from the Tool Shop Merchant. 
+ITEM_20150317_002770	Cryorite enhanced and processed by magic.{nl}The recipe can be purchased from the Item Merchant. 
 ITEM_20150317_002771	Pyranium 
 ITEM_20150317_002772	Ore made by fusing the properties of metal into a Pyrostone. 
 ITEM_20150317_002773	Cryonium 
@@ -2800,11 +2800,11 @@ ITEM_20150317_002799	Premium Currency
 ITEM_20150317_002800	Royal Kingdom Upper Currency 
 ITEM_20150317_002801	Рецепты
 ITEM_20150317_002802	Right-click to register the Recipe 
-ITEM_20150317_002803	Contains instructions on how to craft an item. Access the recipe in the Crafting Menu in Rest Mode. 
+ITEM_20150317_002803	Contains instructions on how to craft an item. Access the recipe in the crafting menu in Rest Mode. 
 ITEM_20150317_002804	Skill Scroll 
 ITEM_20150317_002805	It teleports you to another Goddess Statue. Your current location will be saved. 
 ITEM_20150317_002806	Orb of Nostalgia 
-ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}Cooldown: 15 minutes 
+ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}Cooldown of 15 minutes.
 ITEM_20150317_002808	Клайпеда Warpstone 
 ITEM_20150317_002809	A stone that will transport you to Клайпеда. {nl}Right-click to use. Cooldown : 20 minutes 
 ITEM_20150317_002810	Crystal Mine Unsealing Scroll 1 
@@ -2821,9 +2821,9 @@ ITEM_20150317_002820	The remains of a soldier killed by a monster. The person is
 ITEM_20150317_002821	Moss 
 ITEM_20150317_002822	A patch of moss collected to investigate abnormal phenomena. Much can be discovered from investigating it. 
 ITEM_20150317_002823	Discolored Grass 
-ITEM_20150317_002824	Grass which discoloration is presumed to be caused by influence of Demons. 
+ITEM_20150317_002824	Grass which discoloration is presumed to be caused by influence of demons. 
 ITEM_20150317_002825	Creepy Wood Bark 
-ITEM_20150317_002826	Creepy, disturbing wood bark that has been altered from its original shape. It is presumed to have changed due to influence of the Demons. 
+ITEM_20150317_002826	Creepy, disturbing wood bark that has been altered from its original shape. It is presumed to have changed due to influence of the demons. 
 ITEM_20150317_002827	Blakk's Report 
 ITEM_20150317_002828	A report written by Blakk. Contains reconnaissance details of the nearby region. 
 ITEM_20150317_002829	York's Periodic Report 
@@ -2831,7 +2831,7 @@ ITEM_20150317_002830	A report written by York. Contains observations on recent m
 ITEM_20150317_002831	Vubbe Raider Pouch 
 ITEM_20150317_002832	Herb pouch carried by Vubbes. Roughly made but effective enough. 
 ITEM_20150317_002833	Shawlem's Loot Box 
-ITEM_20150317_002834	Booty gathered by Vubbes. As for the sorting?? 
+ITEM_20150317_002834	Booty gathered by Vubbes. As for the sorting... 
 ITEM_20150317_002835	Supplies Looted by Vubbes 
 ITEM_20150317_002836	Supplies looted and gathered by Vubbes. You can see that some of them have been used. 
 ITEM_20150317_002837	Vubbe Bow 
@@ -2848,9 +2848,9 @@ ITEM_20150317_002847	Crystal
 ITEM_20150317_002848	A unequal crystal fragment. A material requested by Vaidotas. 
 ITEM_20150317_002849	Serum collected from the blood of dead Vubbes. 
 ITEM_20150317_002850	Native Soldier's Key 
-ITEM_20150317_002851	A key to release the seal of the King Tomb 
-ITEM_20150317_002852	King Tomb 2nd Floor Lever 
-ITEM_20150317_002853	Key to King Tomb 33 
+ITEM_20150317_002851	A key to release the seal of the Royal Mausoleum.
+ITEM_20150317_002852	Royal Mausoleum 2F Lever 
+ITEM_20150317_002853	Key to Royal Mausoleum 33 
 ITEM_20150317_002854	Part of the Slab (1) 
 ITEM_20150317_002855	Part of the Slab (2) 
 ITEM_20150317_002856	Stonemason Pipoti's Treasure Map 
@@ -2918,19 +2918,19 @@ ITEM_20150317_002917	Holy Water used for treating patients. It has a sterilizing
 ITEM_20150317_002918	Holy Water of Krivis Master 
 ITEM_20150317_002919	Holy Water used for treating patients. It has a revitalizing effect. 
 ITEM_20150317_002920	Minotaur's Essence 
-ITEM_20150317_002921	A Demonic essence requested by the Psychokino Master. It emanates a sinister evil aura. 
+ITEM_20150317_002921	A demonic essence requested by the Psychokino Master. It emanates a sinister evil aura. 
 ITEM_20150317_002922	Chapparition's Essence 
-ITEM_20150317_002923	A Demonic essence requested by the Psychokino Master. If you stare at it for too long you might be possessed. 
+ITEM_20150317_002923	A demonic essence requested by the Psychokino Master. If you stare at it for too long you might be possessed. 
 ITEM_20150317_002924	Strange Map 
 ITEM_20150317_002925	This might be a map marked with the location of the Fletcher's Secret Manual. Why would the Quarrel Shooter Master want the Fletcher's...? 
 ITEM_20150317_002926	Cloth Piece with a Peculiar Scent 
 ITEM_20150317_002927	A piece of cloth suspected to be from Evoniphon. 
-ITEM_20150317_002928	 
-ITEM_20150317_002929	 
+ITEM_20150317_002928	Drake's Flame Accelerant
+ITEM_20150317_002929	An accelerant required for the Sapper Master's experiements. It catches on fire quickly. 
 ITEM_20150317_002930	Sapper Master's Experimental Bomb 
-ITEM_20150317_002931	Sapper Master's Bomb produced for testing. 
+ITEM_20150317_002931	A bomb produced by the Sapper Master's bomb for testing. 
 ITEM_20150317_002932	Cloth Piece with Needlepoint 
-ITEM_20150317_002933	A piece of cloth probably from the outfit of the Tool Shop Merchant's Father. You can feel great effort from the needlepoints. 
+ITEM_20150317_002933	A piece of cloth probably from the outfit of the Item Merchant's Father. You can feel great effort from the needlepoints. 
 ITEM_20150317_002934	Box of Food for Stray Cat 
 ITEM_20150317_002935	A box containing a delicacy liked by the stray cats. Used to catch stray cats. It has a fishy smell. 
 ITEM_20150317_002936	Sun Essence 
@@ -2991,7 +2991,7 @@ ITEM_20150317_002990	Piece of Record on Mysterious Pattern (2)
 ITEM_20150317_002991	Medicine for Jonas 
 ITEM_20150317_002992	Dabio obtained this medicine for Jonas. Very effective in treating senility. 
 ITEM_20150317_002993	Absorption Circle Scroll 
-ITEM_20150317_002994	Replenishes your HP when a monster is defeated within the магический круг 
+ITEM_20150317_002994	Replenishes your HP when a monster is defeated within the magic circle 
 ITEM_20150317_002995	Crystal Mine Purification Crystal  
 ITEM_20150317_002996	Explosive to open up a Secret Passage 
 ITEM_20150317_002997	Explosive to block the Vubbe Raiders' Secret Passage 
@@ -3060,7 +3060,7 @@ ITEM_20150317_003059	Red Soul Stone
 ITEM_20150317_003060	The second soul stone. It harbors the strong grudge of a corrupt individual. 
 ITEM_20150317_003061	Evil Soul Stone 
 ITEM_20150317_003062	The third soul stone. It harbors the strong grudge of a corrupt individual. 
-ITEM_20150317_003063	A sign of the Spirit-Leading Owl 
+ITEM_20150317_003063	Spirit-Leading Owl's Sign
 ITEM_20150317_003064	A sign that the Angry Owl Sculpture had. 
 ITEM_20150317_003065	Spiritual Stick 
 ITEM_20150317_003066	This stick was made by upgrading a Stinging Stick. It is capable of subduing Sequoia. 
@@ -3146,7 +3146,7 @@ ITEM_20150317_003145	Brother's Diary
 ITEM_20150317_003146	A diary that Coben asked you to find. 
 ITEM_20150317_003147	Cockatrice Fat 
 ITEM_20150317_003148	Fat mass from a Cockatrice. 
-ITEM_20150317_003149	Highly Enriched Cockatrice Fat. 
+ITEM_20150317_003149	Highly Condensed Cockatrice Fat. 
 ITEM_20150317_003150	Hallowventer Charcoal 
 ITEM_20150317_003151	Charcoal found from Hallowventers. 
 ITEM_20150317_003152	Strong Magical Power Absorption Jar 
@@ -3182,13 +3182,13 @@ ITEM_20150317_003181	Bag with Graverobbing Equipment
 ITEM_20150317_003182	There are various tools inside, like a dowsing rod to check for underground tombs. 
 ITEM_20150317_003183	Loot Bag 
 ITEM_20150317_003184	The Saugas store their loot in bags. They share their loot equally. 
-ITEM_20150317_003185	Archaeologist's Token 
-ITEM_20150317_003186	A very ancient looking token of an Archaeologist. 
+ITEM_20150317_003185	Archaeologist Token 
+ITEM_20150317_003186	A very ancient looking token of an archaeologist. 
 ITEM_20150317_003187	Woodfung Poison 
 ITEM_20150317_003188	The highly toxic poison of a Woodfung. It releases this poison into the air when frightened. 
 ITEM_20150317_003189	Bucket 
 ITEM_20150317_003190	Valley Bomb (Disposable) 
-ITEM_20150317_003191	Increases Атака Speed and Combat Movement Speed. {nl} Also speeds up Cast Time and lowers Cooldowns {nl} {#ff0000} Caution: Taking this more than 3 times a day, may cause insomnia{nl}, headache, or indigestion symptoms. {/} 
+ITEM_20150317_003191	Increases your attack speed and movement speed while attacking. {nl} Also speeds up cast time and lowers cooldowns. {nl} {#ff0000} Caution: Taking this more than 3 times a day, may cause insomnia{nl}, headache, or indigestion symptoms. {/} 
 ITEM_20150317_003192	Canyon Bomb 
 ITEM_20150317_003193	Monster Head 
 ITEM_20150317_003194	Monster Corpse 
@@ -3285,8 +3285,8 @@ ITEM_20150317_003284	Follower's Memo
 ITEM_20150317_003285	A method for removing thorny vines is written on the paper. 
 ITEM_20150317_003286	Match
 ITEM_20150317_003287	An ember to burn the thorny vines. 
-ITEM_20150317_003288	Acidic Solution 
-ITEM_20150317_003289	A strong acidic solution that can melt through thorn vines. 
+ITEM_20150317_003288	Acid Solution 
+ITEM_20150317_003289	A strong acid solution that can melt through thorn vines. 
 ITEM_20150317_003290	Magic Crystal  
 ITEM_20150317_003291	A crystal needed to remove thorn vines by holy power. It needs charging and refining to be used. 
 ITEM_20150317_003292	Thornball Remains
@@ -3346,10 +3346,10 @@ ITEM_20150317_003345	Lowers the strength of monsters when used on them.
 ITEM_20150317_003346	Destroyed Altar Fragment
 ITEM_20150317_003347	A piece broken off from the altar on the second floor of the Cathedral 
 ITEM_20150317_003348	Lesser Potion of Light 
-ITEM_20150317_003349	When used, you become invisible to Demons for 10 seconds. The effect disappears if you attack or take damage. 
+ITEM_20150317_003349	When used, you become invisible to demons for 10 seconds. The effect disappears if you attack or take damage. 
 ITEM_20150317_003350	Lesser Bead of the Divine Spirit 
-ITEM_20150317_003351	When used, a Divine Spirit appears and provokes nearby Demons. 
-ITEM_20150317_003352	Носитель откровений's Proof 
+ITEM_20150317_003351	When used, a Divine Spirit appears and provokes nearby demons. 
+ITEM_20150317_003352	Revelator's Proof 
 ITEM_20150317_003353	An index describing how to obtain the Legendary Key from the West Barrier. 
 ITEM_20150317_003354	Seal of Space
 ITEM_20150317_003355	A special key for finding revelations and hidden places. 
@@ -3369,7 +3369,7 @@ ITEM_20150317_003368	Flimsy Charm
 ITEM_20150317_003369	Altar Base Material. 
 ITEM_20150317_003370	An enemy that dies with this charm attached to it is supposed to be under our control but.. It seems kind of shabby. 
 ITEM_20150317_003371	Soul Pot
-ITEM_20150317_003372	A pot filled with the magical energy that flows through the Royal Tombs. 
+ITEM_20150317_003372	A pot filled with the magical energy that flows through the Royal Mausoleum. 
 ITEM_20150317_003373	Black Maize Venom
 ITEM_20150317_003374	Ingredient necessary to redecorate the Obelisk. It has a high level of acidity. 
 ITEM_20150317_003375	Paralysis Powder 
@@ -3379,7 +3379,7 @@ ITEM_20150317_003378	Ingredient necessary for the paint used in painting inscrip
 ITEM_20150317_003379	Dye Coating  
 ITEM_20150317_003380	Ingredient necessary to redecorate the Obelisk. It's very sticky. 
 ITEM_20150317_003381	Paladin Scroll 
-ITEM_20150317_003382	A scroll used to mark the divine symbol of a Paladin onto Demons 
+ITEM_20150317_003382	A scroll used to mark the divine symbol of a Paladin onto demons 
 ITEM_20150317_003383	Shrine Offering Tools
 ITEM_20150317_003384	The sacred energies of the Shrine still infuse them. 
 ITEM_20150317_003385	Confinement Key
@@ -3389,10 +3389,10 @@ ITEM_20150317_003388	A great herb requested by the Cleric Master.
 ITEM_20150317_003389	Goddess Offering Pocket 
 ITEM_20150317_003390	An offering pocket that clerics use to worship the Goddess Statue. 
 ITEM_20150317_003391	Balm 
-ITEM_20150317_003392	A balm used to repair Goddess Statue. It has an unusual, but gentle, scent. 
+ITEM_20150317_003392	A balm used to repair Goddess Statue. It has an unusual, but gentle scent. 
 ITEM_20150317_003393	Boss Decision 
 ITEM_20150317_003394	Hardened Oil 
-ITEM_20150317_003395	It has a pronounced effect  
+ITEM_20150317_003395	It has a pronounced effect.
 ITEM_20150317_003396	Peltasta Shield 
 ITEM_20150317_003397	A shield requested of the Fletcher Master from the Peltasta Master. 
 ITEM_20150317_003398	Dock Permit 
@@ -3412,7 +3412,7 @@ ITEM_20150317_003411	Wood that the Fletcher Master is looking for. It produces a
 ITEM_20150317_003412	Grime-Encrusted Tree 
 ITEM_20150317_003413	There is a clear sound coming from one of these trees. Let's knock on the tree and investigate.
 ITEM_20150317_003414	Simple Tube 
-ITEM_20150317_003415	A simple tube that can shoot a neruotoxin dart 
+ITEM_20150317_003415	A simple tube that can shoot a neruotoxin dart.
 ITEM_20150317_003416	Synthetic Poison 
 ITEM_20150317_003417	A special poison made from a Stoulet's bodily fluids. It only reacts with the neurotoxin dart used with the Simple Tube. 
 ITEM_20150317_003418	Phalanx Tactics 
@@ -3425,9 +3425,9 @@ ITEM_20150317_003424	Heavily Cursed Jewel
 ITEM_20150317_003425	A jewel suffering from a very powerful curse. It seems to be continuously calling to someone. 
 ITEM_20150317_003426	Mothstem's Fire Jar 
 ITEM_20150317_003427	Jar of fire obtained from  Mostems. Mostems treasure them. 
-ITEM_20150317_003428	Blue Fisherman Bone 
-ITEM_20150317_003429	Blue Fisherman Bone. It too small to hold.  
-ITEM_20150317_003430	Guts of a Lepus Bunny 
+ITEM_20150317_003428	Blue Fisherman Bones
+ITEM_20150317_003429	Blue Fisherman Bones. It too small to hold.  
+ITEM_20150317_003430	Lepusbunny's Guts
 ITEM_20150317_003431	Feels terrible 
 ITEM_20150317_003432	Harpeia's Beak 
 ITEM_20150317_003433	The beak of a Harpeia. It is very sharp. 
@@ -3453,7 +3453,7 @@ ITEM_20150317_003452	Memorial Rubbings
 ITEM_20150317_003453	Rubbings requested by the epigraphist Smith 
 ITEM_20150317_003454	A torn letter found from a dead body. Let's find a place to place the relics. 
 ITEM_20150317_003455	Zubeck's Secret Moves
-ITEM_20150317_003456	A scroll describing the secret moves of the legendary theif, Zubeck. Grants 1 Stat Point when used.
+ITEM_20150317_003456	A scroll describing the secret moves of the legendary thief, Zubeck. Grants 1 Stat Point when used.
 ITEM_20150317_003457	Jewel of Prominence 
 ITEM_20150317_003458	Gem containing an aura of fire. It will be helpful to the Goddess Gabija. 
 ITEM_20150317_003459	Languid Herb
@@ -3483,7 +3483,7 @@ ITEM_20150317_003482	A bag full of money. What was the Reaper doing with this?
 ITEM_20150317_003483	Messenger's Note 
 ITEM_20150317_003484	A messenger's hastily scribbled note. It describes a great threat. 
 ITEM_20150317_003485	Ancient Writings 
-ITEM_20150317_003486	There are verses on it to appease the souls of those who died while researching the Royal Tombs. 
+ITEM_20150317_003486	There are verses on it to appease the souls of those who died while researching the Royal Mausoleum. 
 ITEM_20150317_003487	Wizard's Torn Page 
 ITEM_20150317_003488	A page torn from a book. It looks like the author is Shaman Show.  
 ITEM_20150317_003489	Mark of a Pilgrim 
@@ -3508,13 +3508,13 @@ ITEM_20150317_003507	Rope
 ITEM_20150317_003508	Rope required to fix the scarecrow 
 ITEM_20150317_003509	Memory Fragment
 ITEM_20150317_003510	An orb necessary to complete the spell that wakes the Sleeping Owls to defeat Gaigalas. 
-ITEM_20150317_003511	Unstable Divine Sphere. It cannot be used in its current state. 
+ITEM_20150317_003511	An unstable Divine Sphere. It cannot be used in its current state. 
 ITEM_20150317_003512	Huge Fang 
-ITEM_20150317_003513	Huge Fang obtained from Minotaur of Susanhan marketplace 
+ITEM_20150317_003513	A huge fang obtained from the Minotaur of Deserted Market
 ITEM_20150317_003514	Natural Agate Stone 
 ITEM_20150317_003515	Parts needed for a new trap devised by the Sapper Master. 
-ITEM_20150317_003516	 
-ITEM_20150317_003517	 
+ITEM_20150317_003516	Flammable Stone 
+ITEM_20150317_003517	The stone demanded by the Fletcher Master for his teachings. 
 ITEM_20150317_003518	Legwyn Family Decoration 
 ITEM_20150317_003519	A trinket belonging to the old Legwyn Family 
 ITEM_20150317_003520	An ingredient of a drug required to cure the patient 
@@ -3523,9 +3523,9 @@ ITEM_20150317_003522	A holy relic used by Krivises as a symbol of their faith. L
 ITEM_20150317_003523	Stone Whale Essence 
 ITEM_20150317_003524	An essence filled with the resentment of many souls. 
 ITEM_20150317_003525	Dense Hardwood 
-ITEM_20150317_003526	Material requested by the sculptor Tesla 
-ITEM_20150317_003527	 
-ITEM_20150317_003528	 
+ITEM_20150317_003526	Material requested by Sculptor Tesla 
+ITEM_20150317_003527	Lepus Claws 
+ITEM_20150317_003528	The claws requested by the Monk Master as proof of your oath.
 ITEM_20150317_003529	Lost Indulgence Offering 
 ITEM_20150317_003530	Offering envelope embossed with the Pardoner's Crest 
 ITEM_20150317_003531	Mali Seeds 
@@ -3552,7 +3552,7 @@ ITEM_20150317_003551	An ingredient necessary to make the Holy Bomb. It must be p
 ITEM_20150317_003552	Purified Essence 
 ITEM_20150317_003553	An ingredient necessary to make the Holy Bomb. The purified result of Wicked Essence. 
 ITEM_20150317_003554	Romuva Holy Water 
-ITEM_20150317_003555	When consumed it will prevent Demons from detecting your presence! 
+ITEM_20150317_003555	When consumed it will prevent demons from detecting your presence! 
 ITEM_20150317_003556	Holy Bomb 
 ITEM_20150317_003557	A bomb blessed with holy power. It can defeat Glizardon in a single blow. 
 ITEM_20150317_003558	Holy Stone 
@@ -3647,79 +3647,79 @@ ITEM_20150317_003646	A cork stopper that was sealing the oil barrel.
 ITEM_20150317_003647	Brewing Tools 
 ITEM_20150317_003648	Tools used for brewing 
 ITEM_20150317_003649	Royal Jelly 
-ITEM_20150317_003650	Highly nutritious Royal Jelly! 
+ITEM_20150317_003650	A highly nutritious royal jelly! 
 ITEM_20150317_003651	Monster's Claw (Temporary) 
-ITEM_20150317_003652	 
+ITEM_20150317_003652	The claws of a monster that only appears in the Square of Lament in the Petrifed City.  
 ITEM_20150317_003653	Petrification Stolen Goods 
-ITEM_20150317_003654	 
+ITEM_20150317_003654	Goods stolen by the Dico Thieves operating in the Square of Lament. They have been exposed to Petrifying Frost to make them look as if they were from the Petrifed City. 
 ITEM_20150317_003655	Cryptically Engraved Bottle 
-ITEM_20150317_003656	 
+ITEM_20150317_003656	Water bottle engraved with code in order to find Graverobber Benjaminas hiding in the midst of guards at the Square of Lament in the Petrifed City. 
 ITEM_20150317_003657	Very Old Map 
 ITEM_20150317_003658	A map that looks ancient. It looks like it will crumble. 
 ITEM_20150317_003659	Fragrant Stone Powder 
-ITEM_20150317_003660	 
-ITEM_20150317_003661	Monster Meat * 
+ITEM_20150317_003660	Fragrant Stone Powder that can be obtained from monsters at the Square of Lament in the Petrifed City. 
+ITEM_20150317_003661	Monster Meat 
 ITEM_20150317_003662	Chunks of Meat that can easily be obtained from Monsters. But humans can not eat it. 
-ITEM_20150317_003663	 
-ITEM_20150317_003664	 
+ITEM_20150317_003663	Tender Reed Stems 
+ITEM_20150317_003664	Inner stems of reeds commonly seen on Starving Demon's Way. It is too tough to eat raw even if the outer stem is removed. 
 ITEM_20150317_003665	Soft Wooden Periderm 
-ITEM_20150317_003666	The inner layer of bark dug out from a tree on the Starving Demon's Road. Don't eat too much of it. 
+ITEM_20150317_003666	The inner layer of bark dug out from a tree on the Starving Demon's Way. Don't eat too much of it. 
 ITEM_20150317_003667	Small Music Box 
 ITEM_20150317_003668	An item exchanged between lovers as a symbol of their love. A cute music box that fits into a small pouch. 
 ITEM_20150317_003669	Monster Meat 
 ITEM_20150317_003670	Meat peeled off during the hunting of monsters. The terrible smell alone makes it hard to eat. 
 ITEM_20150317_003671	Asellu Leaf Bud 
-ITEM_20150317_003672	The leaf bud of an Asellu grown on the Starving Demon's Road. It has many practical uses in crafting and in medicine. 
+ITEM_20150317_003672	The leaf bud of an Asellu grown on the Starving Demon's Way. It has many practical uses in crafting and in medicine. 
 ITEM_20150317_003673	Food Scraps 
 ITEM_20150317_003674	Unidentifiable food scraps. Can be used as monster bait. When a monster comes into sight, you can throw it by pressing the V key. 
-ITEM_20150317_003675	 
-ITEM_20150317_003676	 
+ITEM_20150317_003675	Tree Root Crystal's Energy Source
+ITEM_20150317_003676	The energy source of a Tree Root Crystal that can remove the pollutant sprayed on Tree Root Crystals. 
 ITEM_20150317_003677	Soul Reagent 
 ITEM_20150317_003678	Reagent to distinguish the monster that killed pilgrims at the scattered stairs. 
 ITEM_20150317_003679	Nameless Flower * 
 ITEM_20150317_003680	Altar Flower Offering 
 ITEM_20150317_003681	Bouquet * 
-ITEM_20150317_003682	A collection of flowers on the altar devoted to appease the angry spirits 
+ITEM_20150317_003682	A collection of flowers on the altar devoted to appease the angry spirits.
 ITEM_20150317_003683	Pilgrim's Lost Scripture Page
 ITEM_20150317_003684	A sheet of the Pilgrim's Scripture.  
 ITEM_20150317_003685	Pilgrim's Scripture 
 ITEM_20150317_003686	A scripture that is necessary for all pilgrims. 
 ITEM_20150317_003687	Condensed Rage of the Pilgrims that the Fire Rod had.  
-ITEM_20150317_003688	 
-ITEM_20150317_003689	 
-ITEM_20150317_003690	 
+ITEM_20150317_003688	Purple Tree Fault Forest Sanctum Map
+ITEM_20150317_003689	A map that shows all the sanctums of the Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the woods.{nl}Location of recovery box: On the corner to Pretense Intersection.
+ITEM_20150317_003690	Holy water obtained from the Priest Master to purify the polluted sanctums in Purple Tree Fault Forest.
 ITEM_20150317_003691	Grey Gypsum Fragment 
-ITEM_20150317_003692	 
+ITEM_20150317_003692	Gesso said to be used when repairing malfunctioning Goddess Statues in the Purple Tree Fault Forest.
 ITEM_20150317_003693	Reed Leaf Dew 
-ITEM_20150317_003694	 
-ITEM_20150317_003695	Sign of Naktis 
-ITEM_20150317_003696	 
+ITEM_20150317_003694	Water said to be used when tempering the gesso.
+ITEM_20150317_003695	Naktis' Sign 
+ITEM_20150317_003696	Marks left by Naktis in monsters to command them.(Temporary)
 ITEM_20150317_003697	Pure Water
 ITEM_20150317_003698	Pure Water flowing within a small part of Fault Forest.
 ITEM_20150317_003699	Leather Pouch 
 ITEM_20150317_003700	A leather pouch used to store water 
 ITEM_20150317_003701	Reed Flowers * 
-ITEM_20150317_003702	 
+ITEM_20150317_003702	Reed flowers picked from reeds in Purple Tree Fault Forest.
 ITEM_20150317_003703	Purifier 
 ITEM_20150317_003704	A purifier that the Pardoner Master sells. It is used when the sacred property of something is sullied. It's very expensive, though. 
 ITEM_20150317_003705	Tombstone Dew 
 ITEM_20150317_003706	Dew gathered from a tombstone early in the morning. One might have qualms against it, but it can be drunk. 
-ITEM_20150317_003707	Lantern * 
+ITEM_20150317_003707	Lantern
 ITEM_20150317_003708	A lantern that lights one's surroundings. 
 ITEM_20150317_003709	Medicine 
-ITEM_20150317_003710	Medicine created by the pilgrim, Teopilis. He claims it will ward off curses. 
-ITEM_20150317_003711	 
-ITEM_20150317_003712	 
-ITEM_20150317_003713	 
+ITEM_20150317_003710	A medicine created by Pilgrim Theophilis. He claims it will ward off curses. 
+ITEM_20150317_003711	Monster Skin
+ITEM_20150317_003712	The skin of a monster that Theophilis will need to create a medicine.
+ITEM_20150317_003713	Small Portrait
 ITEM_20150317_003714	A small, portable portrait with someone's face drawn on it. 
-ITEM_20150317_003715	Mother's Handkerchief * 
+ITEM_20150317_003715	Mother's Handkerchief
 ITEM_20150317_003716	A handkerchief given to a son leaving on a pilgrimage from his loving mother. 
 ITEM_20150317_003717	Sap 
-ITEM_20150317_003718	 
+ITEM_20150317_003718	Sap obtained from trees cut at the Pretense Intersection.
 ITEM_20150317_003719	Jar 
 ITEM_20150317_003720	A jar used to store sap or water.
-ITEM_20150317_003721	Succubus Eyes 
-ITEM_20150317_003722	A Succubus's eyes with the [Necklace of Greed - Stamina] lodged in it. Teopilis can probably extract the necklace if we take it to him. 
+ITEM_20150317_003721	Succubus' Eyes 
+ITEM_20150317_003722	The eyes of the Succubus with the [Necklace of Greed - Stamina] lodged in it. Theophilis can probably extract the necklace if we take it to him. 
 ITEM_20150317_003723	Pattern Stone (High) 
 ITEM_20150317_003724	The upper part of the stone with the drawn sacred pattern. 
 ITEM_20150317_003725	Pattern Stone (Medium) 
@@ -3738,31 +3738,31 @@ ITEM_20150317_003737	A scripture containing the power of sacred texts.
 ITEM_20150317_003738	Spirit's Scripture
 ITEM_20150317_003739	Scriptures containing a bishop's soul. It is able to call up the bishop at any time. 
 ITEM_20150317_003740	Relic of Mercy 
-ITEM_20150317_003741	A teardrop-shaped jewel. Required to find Mayburn's key. 
+ITEM_20150317_003741	A teardrop-shaped jewel. Required to find Maven's key. 
 ITEM_20150317_003742	Relic of Salvation 
-ITEM_20150317_003743	A round jewel. Required to find Mayburn's key. 
+ITEM_20150317_003743	A round jewel. Required to find Maven's key. 
 ITEM_20150317_003744	Maven's First Key
 ITEM_20150317_003745	Guard's Keepsake 
-ITEM_20150317_003746	Relics of the guards that have been petrified by the Stone Frost in the petrified city Susanhan marketplace 
+ITEM_20150317_003746	Relics of the guards that have been petrified by the Petrifying Frost in the Deserted Market of the Petrified City.
 ITEM_20150317_003747	Bag of Farming Tools 
 ITEM_20150317_003748	Backpack filled with tools necessary to start a farm. 
 ITEM_20150317_003749	Bee Tree Branch 
-ITEM_20150317_003750	A branch of a bee tree containing the power of the Goddess Austeja 
+ITEM_20150317_003750	A branch of a bee tree containing the power of the Goddess Austeja.
 ITEM_20150317_003751	Incinerated Demon Ash
-ITEM_20150317_003752	The ashes of a Demon incinerated by Goddess Austeja's power 
+ITEM_20150317_003752	The ashes of a demon incinerated by Goddess Austeja's power.
 ITEM_20150317_003753	Orb of Residue 
-ITEM_20150317_003754	 
+ITEM_20150317_003754	An orb that can destroy demon seals and barriers
 ITEM_20150317_003755	Oak Stem 
 ITEM_20150317_003756	Scarecrow Building Materials 
 ITEM_20150317_003757	Material for fabricating Scarecrows 
-ITEM_20150317_003758	Wood to be installed on the land as scarecrow 
+ITEM_20150317_003758	Wood that can be placed on the land to resemble a scarecrow.
 ITEM_20150317_003759	Stolen Grain Bag 
-ITEM_20150317_003760	Vomited after the monster died, a half-digested mass of dough. 
-ITEM_20150317_003761	The third revelation found in the Thorny Forest 
-ITEM_20150317_003762	The fourth revelation found in the Royal Tombs 
+ITEM_20150317_003760	Vomited after the monster died; a half-digested mass of dough. 
+ITEM_20150317_003761	The third revelation found in the Thorn Forest. 
+ITEM_20150317_003762	The fourth revelation found in the Royal Mausoleum.
 ITEM_20150317_003763	It cannot be read yet. Take it to Saule for interpretation. 
 ITEM_20150317_003764	Rubbing Tool for Petrified Objects  
-ITEM_20150317_003765	Tool used to make a rubbing of the petrified book found on Ruklys Street. 
+ITEM_20150317_003765	A tool used to make a rubbing of the petrified book found on Ruklys Street. 
 ITEM_20150317_003766	Time Magnifier 
 ITEM_20150317_003767	Tool used to find out the past disaster of Ruklys Street  
 ITEM_20150317_003768	Talisman (temporary) 
@@ -3770,9 +3770,9 @@ ITEM_20150317_003769	Talisman attached by an unknown pilgrim to seal the power o
 ITEM_20150317_003770	Austeja's Fragmented Symbol
 ITEM_20150317_003771	Austeja's Symbol related to the altar. 
 ITEM_20150317_003772	Austeja's Symbol
-ITEM_20150317_003773	A symbol containing Goddess Austeja's power, it has the ability to block Demonic powers. 
+ITEM_20150317_003773	A symbol containing Goddess Austeja's power, it has the ability to block demonic powers. 
 ITEM_20150317_003774	Merchant Item Parcel 
-ITEM_20150317_003775	 
+ITEM_20150317_003775	Lost luggage of the Spring Light Woods merchant
 ITEM_20150317_003776	Bee Honey Jelly 
 ITEM_20150317_003777	A sweet-smelling jelly that can bring the Spring Flower out from hiding. 
 ITEM_20150317_003778	Spring Light Grass
@@ -3783,7 +3783,7 @@ ITEM_20150317_003782	Maven's Fourth Key
 ITEM_20150317_003783	Maven's Fifth Key 
 ITEM_20150317_003784	Broken Key Fragment 
 ITEM_20150317_003785	Priest's Studies 
-ITEM_20150317_003786	Documents related to the research of the curse of Naktis 
+ITEM_20150317_003786	Documents related to the research of the curse of Naktis.
 ITEM_20150317_003787	Research Results 
 ITEM_20150317_003788	Priest's lost belongings 
 ITEM_20150317_003789	Medicine 
@@ -3800,7 +3800,7 @@ ITEM_20150317_003799	A key retrieved from Naktis's Servant
 ITEM_20150317_003800	Sacrificial Lean Monster Meat 
 ITEM_20150317_003801	Monster meat for use in the Sanctuary. Because it's a lean part of the meat, it doesn't smell that much. 
 ITEM_20150317_003802	Cleric Master's Symbol of Faith 
-ITEM_20150317_003803	A crest that can find monsters that have eaten the Sancutary's insignia. It's a symbol of the Cleric Master's faith. 
+ITEM_20150317_003803	A crest that can find monsters that have eaten the Sanctuary's insignia. It's a symbol of the Cleric Master's faith. 
 ITEM_20150317_003804	Tough Leather 
 ITEM_20150317_003805	The tough leather of a monster. Its toughness makes it watertight. 
 ITEM_20150317_003806	Tough Leather Pouch 
@@ -3808,31 +3808,31 @@ ITEM_20150317_003807	A pouch made from a monster's Tough Leather
 ITEM_20150317_003808	Water-Filled Leather Pouch  
 ITEM_20150317_003809	A monster's Tough Leather Pouch that has been filled with water. 
 ITEM_20150317_003810	An old and rusted key. 
-ITEM_20150317_003811	The sixth revelation found in the Cathedral 
+ITEM_20150317_003811	The sixth revelation found in the Great Cathedral.
 ITEM_20150317_003812	Doucments related to Naktis 
-ITEM_20150317_003813	Documents related to the story of Naktis and the Asmodians 
+ITEM_20150317_003813	Documents related to the story of Naktis and the demons.
 ITEM_20150317_003814	Body of Priest 
 ITEM_20150317_003815	Body of Bishop 
 ITEM_20150317_003816	Tasty Candy Ball 
-ITEM_20150317_003817	A tasty candy ball made for the workers at the petrified city in Kaliss. 
+ITEM_20150317_003817	A tasty candy ball made for the workers at the Petrified City in Kaliss. 
 ITEM_20150317_003818	Guard's Memento 
-ITEM_20150317_003819	Memento of a soldier who died to the petrifying frost.  
+ITEM_20150317_003819	Memento of a guard who died to the Petrifying Frost.  
 ITEM_20150317_003820	Elixir Ingredient 
 ITEM_20150317_003821	An ingredient requested by Bokor Edita in order to call forth spirits. 
-ITEM_20150317_003822	Elixir of Release 
+ITEM_20150317_003822	Liberation Elixir
 ITEM_20150317_003823	An elixer that, when used on petrified people, summons their spirits. 
 ITEM_20150317_003824	Petrification Thawing Liquid  
 ITEM_20150317_003825	When used on a monster that is being petrified, it thaws them out. 
 ITEM_20150317_003826	Petrified Sample 
 ITEM_20150317_003827	A petrified sample of a monster in the process of being petrified. 
-ITEM_20150317_003828	Ruklys Era Record 
+ITEM_20150317_003828	Record from the Ruklys Era
 ITEM_20150317_003829	A comparatively well-reserved record from the Ruklys Era. 
 ITEM_20150317_003830	Vacuum Scroll 
-ITEM_20150317_003831	A scroll that contains powerful magic that blocks all sound. Let's use Gagoil. 
+ITEM_20150317_003831	A scroll that contains powerful magic that blocks all sound. Use it on Gargoyle. 
 ITEM_20150317_003832	Flame Spirit Jewel 
 ITEM_20150317_003833	A jewel that holds an unstable flame spirit. 
 ITEM_20150317_003834	Mine Compass 
-ITEM_20150317_003835	A mysterious compass that guides you on repairing the Purifiers. 
+ITEM_20150317_003835	A mysterious compass that guides you on repairing the purifiers. 
 ITEM_20150317_003836	Purifier Cooling Parts 
 ITEM_20150317_003837	1F Entrance Purifier Parts 
 ITEM_20150317_003838	Purifier Operating Parts
@@ -3852,9 +3852,9 @@ ITEM_20150317_003851	Gaudeji Altar's Magic Piece
 ITEM_20150317_003852	Masterpiece Mead 
 ITEM_20150317_003853	Honey liqueur that shows the craftsmanship of the brewer. 
 ITEM_20150317_003854	Absorption Scroll 
-ITEM_20150317_003855	A magic scroll that can absorb weak petrification frost. 
+ITEM_20150317_003855	A magic scroll that can absorb weak Petrifying Frost. 
 ITEM_20150317_003856	Petrified Flower 
-ITEM_20150317_003857	 
+ITEM_20150317_003857	A flower turned to stone by being exposed to the Petrifying Frost at the Square of Lament in the Petrifed City. Said to be sold at extravagant prices elsewhere.
 ITEM_20150317_003858	Lesser Ice Wall Scroll 
 ITEM_20150317_003859	Casts Ice Wall when used. 
 ITEM_20150317_003860	Sparkling Stone 
@@ -3879,7 +3879,7 @@ ITEM_20150317_003878	Bomb with a high power output. It is extremely loud.
 ITEM_20150317_003879	Central Propaganda 
 ITEM_20150317_003880	Advertisement fliers distributed by the Royal Army 
 ITEM_20150317_003881	Frosty Core 
-ITEM_20150317_003882	Research on the petrification frost requested by the Kaliss Knightage 
+ITEM_20150317_003882	Research on the Petrifying Frost requested by the Knights of Kaliss.
 ITEM_20150317_003883	Recruitment Notice 
 ITEM_20150317_003884	A lengthy advertisement noting the Kingdom's honor and pride 
 ITEM_20150317_003885	Priest's Research 
@@ -3887,7 +3887,7 @@ ITEM_20150317_003886	Research collected by the Priest
 ITEM_20150317_003887	Dumaro's Hind Leg 
 ITEM_20150317_003888	The part of a Dumaro that has the most meat 
 ITEM_20150317_003889	Leather Front Plate 
-ITEM_20150317_003890	 
+ITEM_20150317_003890	Formine Armor parts
 ITEM_20150317_003891	Leafy Shoulder 
 ITEM_20150317_003892	Leather Back Plate 
 ITEM_20150317_003893	Leather Chest Protector 
@@ -3907,24 +3907,24 @@ ITEM_20150317_003906	A scripture that anyone calling themselves a pilgrim of the
 ITEM_20150317_003907	Test Soul Reagent 
 ITEM_20150317_003908	Reagent for soul testing that Graschius gave you. The key is to secretly spray it without drawing the monster's attention. 
 ITEM_20150317_003909	Cold Monster Fluid
-ITEM_20150317_003910	 
-ITEM_20150317_003911	 
-ITEM_20150317_003912	 
-ITEM_20150317_003913	 
+ITEM_20150317_003910	Cold fluid that can be obtained from monsters on rare occasions.
+ITEM_20150317_003911	Theophilis's Bag
+ITEM_20150317_003912	A bag with Theophilis's tools.
+ITEM_20150317_003913	Portrait Fragment
 ITEM_20150317_003914	A piece of paper swallowed by a monster. It looks like someone's portrait. 
-ITEM_20150317_003915	 
+ITEM_20150317_003915	Empty Frame
 ITEM_20150317_003916	Soldier's Memento
 ITEM_20150317_003917	The relics of soldiers who died protecting the Miners' Village. 
 ITEM_20150317_003918	Miners' Village Food 
 ITEM_20150317_003919	Food that the Vubbes plundered in the Miners' Village. Some of it has been eaten. 
-ITEM_20150317_003920	 
+ITEM_20150317_003920	Wooden boards to be used to craft a Wooden Buckler.
 ITEM_20150317_003921	Shield parts needed to convince the Peltasta to join your side. 
-ITEM_20150317_003922	 
+ITEM_20150317_003922	Priest's Research Notes
 ITEM_20150317_003923	Scriptural Relic 
 ITEM_20150317_003924	Orb of Divine Detection 
-ITEM_20150317_003925	 
+ITEM_20150317_003925	Sample
 ITEM_20150317_003926	Great Cathedral Goods 
-ITEM_20150317_003927	 
+ITEM_20150317_003927	Priest's Experiments Results
 ITEM_20150317_003928	Graceful Relic 
 ITEM_20150323_003929	Sandwich Bread 
 ITEM_20150323_003930	Sandwich Cheese 
@@ -3970,27 +3970,27 @@ ITEM_20150323_003969	Paralysis powder that can stun the Black Maize in the Vieta
 ITEM_20150323_003970	Whistling Wood 
 ITEM_20150323_003971	Fisherman's Fishing Rod 
 ITEM_20150323_003972	A fishing rod made from a Fisherman's prized wood, from which you can hear a whistling sound. Check it out by breaking it open. 
-ITEM_20150323_003973	Blue Pawndel's Bone 
+ITEM_20150323_003973	Blue Pawndel Bones 
 ITEM_20150323_003974	Black Pawnd's Entrails 
-ITEM_20150323_003975	Report recording the strange phenomena in Paupys Port 
+ITEM_20150323_003975	Report recording the strange phenomena in Paupys Crossing 
 ITEM_20150323_003976	Giant canine obtained from the Minotaurus of Roxona Marketplace 
 ITEM_20150323_003977	Well-Burnable Firestone 
 ITEM_20150323_003978	A stone that the Fletcher Master requested in exchange for his teaching. 
-ITEM_20150323_003979	 
+ITEM_20150323_003979	Netherbovine's Sharp Fangs
 ITEM_20150323_003980	A canine that the Monk Master requested as proof of your commitment. 
 ITEM_20150323_003981	Monster's toenail that can only be found from the petrified city of Verkti Square. 
-ITEM_20150323_003982	The goods stolen by the Dico Robbers in the petrified city of Verkti Square. In order to make these like the Verkti Square goods, they have been exposed to the Stone Frost. 
-ITEM_20150323_003983	Water bottle engraved with a password to find the robber Benjaminas hidden among the guards of the petrified city of Verkti Square. 
+ITEM_20150323_003982	The goods stolen by the Dico Thieves in the petrified city of Verkti Square. In order to make these like the Verkti Square goods, they have been exposed to the Petrifying Frost. 
+ITEM_20150323_003983	A water bottle engraved with a password to find the Grave Robber Benjaminas hidden among the guards of the petrified city of Verkti Square. 
 ITEM_20150323_003984	A fragrant stone powder obtained from monsters in the petrified city of Verkti Square. 
-ITEM_20150323_003985	 
+ITEM_20150323_003985	Chunk of Monster Meat
 ITEM_20150323_003986	Young Leaf 
-ITEM_20150323_003987	 
+ITEM_20150323_003987	Tender leaves of wild herbs commonly seen on Starving Demon's Way. They are edible, but do not seem to be appetizing for humans.
 ITEM_20150323_003988	Tree Root Crystal Core 
-ITEM_20150323_003989	 
-ITEM_20150323_003990	 
+ITEM_20150323_003989	A reagent used to identify the monsters that killed pilgrims on Altar Way.
+ITEM_20150323_003990	A map that shows all the sanctums of Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the Forest of Prayer.{nl}Location of the recovery box: On the corner to Apsimesti Crossroads.
 ITEM_20150323_003991	Holy water gained from the Priest Master to purify the corrupted sanctum in the Forest of Prayer. 
 ITEM_20150323_003992	Plaster powder used to repair the broken Goddess Statue in the Forest of Prayer. 
-ITEM_20150323_003993	 
+ITEM_20150323_003993	Water from a small stream flowing in the Forest of Prayer.
 ITEM_20150323_003994	Reed flower cut from reeds in the Forest of Prayer. 
 ITEM_20150323_003995	Reed Sap Crystal 
 ITEM_20150323_003996	A crystal that solidified from the sap that the parasitic Tree Ambulo sucked out of reeds. 
@@ -4016,7 +4016,7 @@ ITEM_20150323_004015	The third key of Mayburn. It is said that all 5 keys must b
 ITEM_20150323_004016	The fourth key of Mayburn. It is said that all 5 keys must be gathered to reach the revelation. 
 ITEM_20150323_004017	The fifth key of Mayburn. It is said that all 5 keys must be gathered to reach the revelation. 
 ITEM_20150323_004018	Symbol of Spiritual Power 
-ITEM_20150323_004019	Symbol than can supply magic energy to the Veinika altar. The magical energies of the altar have discharged over the long years. 
+ITEM_20150323_004019	Symbol than can supply magic energy to the Karuna Altar. The magical energies of the altar have discharged over the long years. 
 ITEM_20150323_004020	Turbid Solvent 
 ITEM_20150323_004021	A cloudy liquid with something trapped in it. Is it really a solvent? 
 ITEM_20150323_004022	Daram's Newly Developed Reagent
@@ -4026,46 +4026,46 @@ ITEM_20150323_004025	A herb needed to treat Naktis's curse.
 ITEM_20150323_004026	Meat stuffed full of medicine that cures gluttony's curse. It must be force fed to cursed pilgrims. 
 ITEM_20150323_004027	Raw meat dripping with blood. 
 ITEM_20150323_004028	Demonic Research, Transformation 
-ITEM_20150323_004029	A very old document that outlines how to transform into a Demon. 
+ITEM_20150323_004029	A very old document that outlines how to transform into a demon. 
 ITEM_20150323_004030	A material needed to make a Demon Transforming Scroll. A lot is needed. 
-ITEM_20150323_004031	A scroll that allows the user to transform into a Demon at any time. The type of Demon depends on the materials used to make it, however. 
-ITEM_20150323_004032	Demon Master of Curses, Naktis 
-ITEM_20150323_004033	Literature regarding curses and the Demon Master who controls them. It covers Naktis in depth. 
+ITEM_20150323_004031	A scroll that allows the user to transform into a demon at any time. The type of demon depends on the materials used to make it, however. 
+ITEM_20150323_004032	Naktis, Demon Lord of Curses
+ITEM_20150323_004033	Literature regarding curses and the Demon Lord who controls them. It covers Naktis in depth. 
 ITEM_20150323_004034	Dorjen's Signature Mead 
 ITEM_20150323_004035	Material requested by the Peltasta Master 
-ITEM_20150323_004036	A stone flower that was exposed to the petrification frost in the petrified town of Verkti Square. It's supposedly very expensive outside the town. 
-ITEM_20150323_004037	 
-ITEM_20150323_004038	 
-ITEM_20150323_004039	 
-ITEM_20150323_004040	 
-ITEM_20150323_004041	 
+ITEM_20150323_004036	A stone flower that was exposed to the Petrifying Frost in the petrified city of Verkti Square. It's supposedly very expensive outside the city. 
+ITEM_20150323_004037	Monster Secretion Gland
+ITEM_20150323_004038	Monster Secretion Glands of Blut's followers.
+ITEM_20150323_004039	Hauberk's Thick Mane
+ITEM_20150323_004040	A part of Hauberk's body extorted by his followers when they betrayed him.
+ITEM_20150323_004041	Marbles used by Kupole Norgaile to interrogate demons.
 ITEM_20150323_004042	Sleeping Hauberk's Seal Fragment 
-ITEM_20150323_004043	A portion of the torn soul of the Demon Master Hauberk. 
-ITEM_20150323_004044	Key of the Night Star
-ITEM_20150323_004045	 
+ITEM_20150323_004043	A portion of the torn soul of the Demon Lord Hauberk. 
+ITEM_20150323_004044	Evening Star Key
+ITEM_20150323_004045	A crystal blessed with spatial powers by Goddess Vakarine for Kupole Zydrone. It has been modified by Zydrone so that humans can use it.
 ITEM_20150323_004046	Hauberk's Soul Fragment
-ITEM_20150323_004047	A jewel made by Hauberk to give a portion of his power to his minions. 
+ITEM_20150323_004047	A jewel made by Hauberk to give a portion of his power to his servants.
 ITEM_20150323_004048	Night Star Spectral Orb
-ITEM_20150323_004049	 
+ITEM_20150323_004049	A Spectral Orb made by Kupole Daiva to survey demons. This can be used to find Hauberk in hiding.
 ITEM_20150323_004050	Evening Star Rune 
-ITEM_20150323_004051	 
-ITEM_20150323_004052	 
-ITEM_20150323_004053	 
+ITEM_20150323_004051	A rune blessed by Goddess Vakarine. The rune absorbs the souls of demons.
+ITEM_20150323_004052	Mark of Condemned Criminals
+ITEM_20150323_004053	The mark of condemned criminals given to vicious monsters in Demon Prison.
 ITEM_20150323_004054	Hauberk's Seal Fragment 
-ITEM_20150323_004055	 
-ITEM_20150323_004056	 
-ITEM_20150323_004057	 
+ITEM_20150323_004055	The fragment of a seal containing Hauberk's soul.
+ITEM_20150323_004056	Kupole Necklace
+ITEM_20150323_004057	A necklace that was in the possession of the Kupoles.
 ITEM_20150323_004058	Trace of Transference
-ITEM_20150323_004059	 
+ITEM_20150323_004059	A crystal of the power given to demons as they passed through the dimensional crack. 
 ITEM_20150323_004060	Empty Soul 
-ITEM_20150323_004061	 
-ITEM_20150323_004062	 
-ITEM_20150323_004063	 
+ITEM_20150323_004061	An empty given by Goddess Vakarine to restore Dionys.
+ITEM_20150323_004062	Personal Keepsake
+ITEM_20150323_004063	A keepsake of people that have been ruthlessly slain after entering the Demon Prison.
 ITEM_20150323_004064	Mark of Star
-ITEM_20150323_004065	 
-ITEM_20150323_004066	 
+ITEM_20150323_004065	A crystal of Dionys's magic separated from the now frenzied Dionys.
+ITEM_20150323_004066	Claws embedded in demons when Dionys attacked them.
 ITEM_20150323_004067	Demon Teeth 
-ITEM_20150323_004068	 
+ITEM_20150323_004068	Obtained by dealing with demons in Demon Prison District 4 by Kupole Sigita's request. 
 ITEM_20150323_004069	Formine Armor parts. The part that protects the front of one's chest. 
 ITEM_20150323_004070	Formine Armor parts. It protects one's shoulders. 
 ITEM_20150323_004071	Formine Armor parts. It is used to pad one's back. 
@@ -4076,97 +4076,97 @@ ITEM_20150323_004075	A rare, cold body fluid that can be found from monsters. Us
 ITEM_20150323_004076	Theophilis' Bag
 ITEM_20150323_004077	Picture Fragment
 ITEM_20150323_004078	Empty Frame 
-ITEM_20150323_004079	Pemidian Outskirt Warp Scroll 
-ITEM_20150323_004080	 
+ITEM_20150323_004079	Fedimian Suburbs Warp Scroll 
+ITEM_20150323_004080	A warp scroll that allows you to quickly return to the Pardoner Master at Crystal Brook. Please note that it is only usable when there is trouble at the Sanctum, so hoarding these scrolls is meaningless. 
 ITEM_20150323_004081	Strong Rope
 ITEM_20150323_004082	A strong rope obtained from a monster. It is useful to tie something.
-ITEM_20150323_004083	 
+ITEM_20150323_004083	Hardtack that someone hid in some grass. 
 ITEM_20150323_004084	Scorpio Venom 
-ITEM_20150323_004085	 
+ITEM_20150323_004085	Venom extracted from Scorpio. 
 ITEM_20150323_004086	Sweet Herb 
-ITEM_20150323_004087	 
+ITEM_20150323_004087	Leaves of the Sweet Herb. Useful when eaten with bitter medicines. 
 ITEM_20150323_004088	Nutritious Tonic 
-ITEM_20150323_004089	A nutritious tonic made by diluting the baron's concentrate with Scorpio Venom. 
-ITEM_20150323_004090	 
-ITEM_20150323_004091	 
-ITEM_20150323_004092	 
-ITEM_20150323_004093	 
-ITEM_20150323_004094	 
-ITEM_20150323_004095	 
+ITEM_20150323_004089	A nutritious tonic made by diluting the Baron's concentrate with Scorpio venom. 
+ITEM_20150323_004090	Brand New Rice Cake
+ITEM_20150323_004091	A rice cake from Malus. 
+ITEM_20150323_004092	Spoiled Rice Cake
+ITEM_20150323_004093	Pieces of a spoiled rice cake.
+ITEM_20150323_004094	Fresh Rice Cake
+ITEM_20150323_004095	A rice cake that is still fresh.
 ITEM_20150323_004096	Well-Grown White Radish 
 ITEM_20150323_004097	A fully grown white radish freshly picked from the fields. It looks healthy, without blemish. 
 ITEM_20150323_004098	Roughly Chopped Wood 
-ITEM_20150323_004099	 
-ITEM_20150323_004100	 
-ITEM_20150323_004101	 
+ITEM_20150323_004099	Low quality wood torn from wagons or boxes strewn across the farm. May be able to weave it into something useful.
+ITEM_20150323_004100	Shaman Doll from the Baron
+ITEM_20150323_004101	A shaman doll said to have been given by the Baron to Arunas. It is said that burning this in a magic circle will remove the strange aura.
 ITEM_20150323_004102	First Empty bottle 
-ITEM_20150323_004103	 
-ITEM_20150323_004104	A bottle filled with a monster's energy 
-ITEM_20150323_004105	A bottle filled with a monster's energy. 
-ITEM_20150323_004106	 
-ITEM_20150323_004107	 
-ITEM_20150323_004108	 
-ITEM_20150323_004109	 
-ITEM_20150323_004110	Keposid's Evil Energy 
-ITEM_20150323_004111	 
-ITEM_20150323_004112	 
-ITEM_20150323_004113	A bottle filled with a Keposid's wicked aura 
+ITEM_20150323_004103	An empty bottle from the Wizard Apprentice. Useful in various ways. 
+ITEM_20150323_004104	Bottle filled with Monster Energy
+ITEM_20150323_004105	A bottle filled with the energy of a monster. 
+ITEM_20150323_004106	Yellow Ellom's Evil Energy
+ITEM_20150323_004107	A bttle that is 1/3 full with a Yellow Ellom's evil energy
+ITEM_20150323_004108	A bottle that is 2/3 full with a Yellow Ellom's evil energy
+ITEM_20150323_004109	A bottle filled with a Yellow Ellom's evil energy
+ITEM_20150323_004110	Keposeed's Evil Energy 
+ITEM_20150323_004111	A bottle that is 1/3 full with a Keposeed's evil energy
+ITEM_20150323_004112	A bottle that is 2/3 full with a Keposeed's evil energy
+ITEM_20150323_004113	A bottle filled with a Keposeed's evil energy
 ITEM_20150323_004114	Second Empty Bottle 
-ITEM_20150323_004115	 
-ITEM_20150323_004116	 
+ITEM_20150323_004115	Poison Bottle
+ITEM_20150323_004116	A bottle filled with poison gathered from monsters given by Wizard Apprentice Limas.
 ITEM_20150323_004117	Small Stone Statue's Head 
-ITEM_20150323_004118	 
+ITEM_20150323_004118	The head of a small stone statue. 
 ITEM_20150323_004119	Small Stone Statue's Upper Body 
-ITEM_20150323_004120	 
+ITEM_20150323_004120	The upper body of a small stone statue. 
 ITEM_20150323_004121	Small Stone Statue's Lower Body 
-ITEM_20150323_004122	 
+ITEM_20150323_004122	The lower body of a small stone statue. 
 ITEM_20150323_004123	Small Stone Statue's Wings 
-ITEM_20150323_004124	 
+ITEM_20150323_004124	The wings of a small stone statue. 
 ITEM_20150323_004125	Blunt Wooden Piece 
 ITEM_20150323_004126	A blunt piece of wood that used to be the head of a wooden hammer 
 ITEM_20150323_004127	Wooden Rod Piece 
 ITEM_20150323_004128	A wooden rod that used to be part of the shaft of a wooden hammer 
-ITEM_20150323_004129	 
+ITEM_20150323_004129	Wooden Hammer ★
 ITEM_20150323_004130	A wooden hammer that is used to open kegs. Poorly made, it is not very durable. 
-ITEM_20150323_004131	 
-ITEM_20150323_004132	 
-ITEM_20150323_004133	 
-ITEM_20150323_004134	 
+ITEM_20150323_004131	Sticky Liquid
+ITEM_20150323_004132	Sticky liquid that monsters spit out as they died. May be useful as an adhesive thanks to the high viscosity.
+ITEM_20150323_004133	Seeds of Something
+ITEM_20150323_004134	The seeds of something obtained from monsters.
 ITEM_20150323_004135	Bitter Drink 
-ITEM_20150323_004136	 
-ITEM_20150323_004137	 
-ITEM_20150323_004138	 
-ITEM_20150323_004139	 
-ITEM_20150323_004140	 
-ITEM_20150323_004141	 
+ITEM_20150323_004136	A bitter drink. It is extremely bitter.
+ITEM_20150323_004137	Wooden Stick 
+ITEM_20150323_004138	A wooden stick cut from nearby fences.
+ITEM_20150323_004139	Stone
+ITEM_20150323_004140	Hard stone obtained from monsters.
+ITEM_20150323_004141	Monster's Poison Jar.
 ITEM_20150323_004142	Full Poison Jar 
 ITEM_20150323_004143	A jar full of a monster's poison. 
-ITEM_20150323_004144	 
-ITEM_20150323_004145	 
-ITEM_20150323_004146	 
-ITEM_20150323_004147	 
-ITEM_20150323_004148	 
-ITEM_20150323_004149	 
-ITEM_20150323_004150	 
+ITEM_20150323_004144	Plow ★
+ITEM_20150323_004145	Plow
+ITEM_20150323_004146	Hoe ★
+ITEM_20150323_004147	Hoe
+ITEM_20150323_004148	Spade ★
+ITEM_20150323_004149	Spade
+ITEM_20150323_004150	Pickaxe ★
 ITEM_20150323_004151	Pickaxe 
-ITEM_20150323_004152	 
+ITEM_20150323_004152	Rake ★
 ITEM_20150323_004153	Rake 
-ITEM_20150323_004154	A handwritten recommendation from Horacius 
-ITEM_20150323_004155	 
-ITEM_20150323_004156	 
-ITEM_20150323_004157	 
-ITEM_20150323_004158	 
+ITEM_20150323_004154	Horacius's Handwritten Recommendation
+ITEM_20150323_004155	A handwritten recommendation from Horacius. Used to persuade suspicious farmers. 
+ITEM_20150323_004156	Uprooted Dandelion
+ITEM_20150323_004157	A perfectly uprooted dandelion. The roots and leaves are used as food and medicine. Getting rid of the bitterness is key.
+ITEM_20150323_004158	Monster Meat 
 ITEM_20150323_004159	Fresh meat taken from monsters 
-ITEM_20150323_004160	 
+ITEM_20150323_004160	Perfectly Dried Jerky ★
 ITEM_20150323_004161	A chewy beef jerky properly dried with a dryer.
-ITEM_20150323_004162	 
+ITEM_20150323_004162	Hard stone obtained from monsters. It is said to be able to break seals. 
 ITEM_20150323_004163	Seed Bag
-ITEM_20150323_004164	 
+ITEM_20150323_004164	A seed bag stolen by monsters.
 ITEM_20150323_004165	Lump of Meat 
 ITEM_20150323_004166	Lump of Meat from an unknown source. 
 ITEM_20150323_004167	A list of signatures of people agreeing to revolt. 
-ITEM_20150323_004168	Small Statue  
-ITEM_20150323_004169	 
+ITEM_20150323_004168	Small Statue ★
+ITEM_20150323_004169	A small goddess statue put together from parts found in various locations. 
 ITEM_20150323_004170	Coarse Bark 
 ITEM_20150323_004171	A Tipio's Skin that's needed to recruit the Peltasta's assistance. 
 ITEM_20150323_004172	Priest Yosana's Research 
@@ -4183,12 +4183,12 @@ ITEM_20150323_004182	Loftlem Core
 ITEM_20150323_004183	Priest Yosana's Research Data 
 ITEM_20150323_004184	A research report on curses written by Priest Yosana. He said it disappeared in the blink of an eye. 
 ITEM_20150323_004185	Scroll of Purification 
-ITEM_20150323_004186	It can cleanse Demonic fluids with the holy aura of the Cathedral. Try using it on Demons. 
+ITEM_20150323_004186	It can cleanse demonic fluids with the holy aura of the Cathedral. Try using it on Demons. 
 ITEM_20150323_004187	A holy relic treasured by the Church. It conceals itself when it detects evil energies. 
 ITEM_20150323_004188	A curse that is constantly spreading. It can't be destroyed in the usual way. 
 ITEM_20150323_004189	Durable wood suitable for making a scarecrow and a fence. 
 ITEM_20150323_004190	Mysterious Dagger 
-ITEM_20150323_004191	 
+ITEM_20150323_004191	A dagger that embitters the beholder's disposition. 
 ITEM_20150323_004192	Pink Chupaluka Fur 
 ITEM_20150323_004193	A monster used for making a scarecrow 
 ITEM_20150323_004194	Ellom Leaves 
@@ -4199,8 +4199,8 @@ ITEM_20150323_004198	First Corrupted Soil Sample
 ITEM_20150323_004199	A soil sample collected from around the Abandoned Workshop. It is severely corrupted. 
 ITEM_20150323_004200	Tanu's Body Fluids 
 ITEM_20150323_004201	Fluids extracted from organs of Tanu. Used in the purification rituals of the Druids. 
-ITEM_20150323_004202	 
-ITEM_20150323_004203	 
+ITEM_20150323_004202	Sapling Branch
+ITEM_20150323_004203	A branch taken from the mysterious sapling. It seems to retain some of the power it had as the sapling. 
 ITEM_20150323_004204	Mysterious Small Box
 ITEM_20150323_004205	Small Box found from the soil in the ground. The lock seems to be loose. 
 ITEM_20150323_004206	Miren's Old Bag 
@@ -4210,13 +4210,13 @@ ITEM_20150323_004209	Leaf Nut Egg. It is assumed that it is useful as a material
 ITEM_20150323_004210	Parasitic Eggs 
 ITEM_20150323_004211	Parasitic Eggs monster from the grape vine roots. Very nasty. 
 ITEM_20150323_004212	Golden Grapes 
-ITEM_20150323_004213	 
-ITEM_20150323_004214	Piece of Drake Horn 
-ITEM_20150323_004215	 
+ITEM_20150323_004213	An unripe grape that still has a green tinge. 
+ITEM_20150323_004214	Drake Horn Piece
+ITEM_20150323_004215	A piece of a horn obtained from the body of the Drake. Give it to the private officer as evidence. 
 ITEM_20150323_004216	Stolen Grain Bag
 ITEM_20150323_004217	A stolen bag of grain that the soldiers at Shaton Farm took as a bribe. 
 ITEM_20150323_004218	Druid's Antidote 
-ITEM_20150323_004219	Druid's special Antidote to neutralize the poison of grapes 
+ITEM_20150323_004219	Druid's special Antidote to neutralize the poison of grapes.
 ITEM_20150323_004220	Obedience Stick
 ITEM_20150323_004221	A wooden branch containing Druidic powers. It is said that it can subdue monsters. 
 ITEM_20150323_004222	Druid's Empty Stone Bowl 
@@ -4239,8 +4239,8 @@ ITEM_20150323_004238	Tough Orange Sakmoli Stem
 ITEM_20150323_004239	Pink Chupaluka Heart
 ITEM_20150323_004240	Pyromancer's Requested Monster Sample 
 ITEM_20150323_004241	Pyromancer's Research Material 
-ITEM_20150323_004242	 
-ITEM_20150323_004243	 Магический Круг Inscribed Leather 
+ITEM_20150323_004242	Frenzy Antidote 
+ITEM_20150323_004243	Magic Circle Inscribed Leather 
 ITEM_20150323_004244	Fragment from when you destroyed the altar. 
 ITEM_20150323_004245	Hunter Master's Detox Solvent
 ITEM_20150323_004246	Ridimed Leaf 
@@ -4251,10 +4251,10 @@ ITEM_20150323_004250	A scarecrow created by Louise
 ITEM_20150323_004251	Monster Suppression Device 
 ITEM_20150323_004252	Apparatus for suppressing plant growth. 
 ITEM_20150323_004253	Small Plant Control Device 
-ITEM_20150323_004254	A plant control device given to you by Researcher Gareth 
-ITEM_20150323_004255	Antidote Recipes 
-ITEM_20150323_004256	Antidote Recipes written by Hunter Master. 
-ITEM_20150323_004257	Essence of Black Leadmed 
+ITEM_20150323_004254	A plant control device given to you by Researcher Gareth.
+ITEM_20150323_004255	Antidote Recipe
+ITEM_20150323_004256	An atidote recipe written by the Hunter Master.
+ITEM_20150323_004257	Black Ridimed Essence
 ITEM_20150323_004258	Vermilion Sharkmolly Essence 
 ITEM_20150323_004259	Free Dungeon test item 
 ITEM_20150401_004260	Armband I 
@@ -4404,10 +4404,10 @@ ITEM_20150401_004403	Infantry Gauntlets
 ITEM_20150401_004404	Infantry Greaves 
 ITEM_20150401_004405	Infantry Leggings 
 ITEM_20150401_004406	Infantry Armor 
-ITEM_20150401_004407	Arch Mage Gloves 
-ITEM_20150401_004408	Arch Mage Boots 
-ITEM_20150401_004409	Arch Mage Pants 
-ITEM_20150401_004410	Arch Mage Robe 
+ITEM_20150401_004407	Archmage Gloves 
+ITEM_20150401_004408	Archmage Boots 
+ITEM_20150401_004409	Archmage Pants 
+ITEM_20150401_004410	Archmage Robe 
 ITEM_20150401_004411	Superior Skirmisher Gloves 
 ITEM_20150401_004412	Superior Skirmisher Boots 
 ITEM_20150401_004413	Superior Skirmisher Pants 
@@ -4440,7 +4440,7 @@ ITEM_20150401_004439	Ronesa's Wooden Necklace
 ITEM_20150401_004440	Ronesa's Iron Necklace 
 ITEM_20150401_004441	Ronesa's Steel Necklace 
 ITEM_20150401_004442	Ronesa's Talisman 
-ITEM_20150401_004443	Ronesa's Клайпеда Chain 
+ITEM_20150401_004443	Ronesa's Klaipeda Chain 
 ITEM_20150401_004444	Ritual Necklace 
 ITEM_20150401_004445	Superior Ritual Necklace 
 ITEM_20150401_004446	Key Pendant 
@@ -4454,7 +4454,7 @@ ITEM_20150401_004453	Superior Bangle of Health
 ITEM_20150401_004454	Superior Magical Bangle 
 ITEM_20150401_004455	Superior Bangle of Accuracy 
 ITEM_20150401_004456	Light Superior Bangle 
-ITEM_20150401_004457	Ronesa's Клайпеда Bracelet 
+ITEM_20150401_004457	Ronesa's Klaipeda Bracelet 
 ITEM_20150401_004458	Superior Bangle 
 ITEM_20150401_004459	Gem  Bracelet 
 ITEM_20150401_004460	Pearl Bracelet 
@@ -4463,7 +4463,7 @@ ITEM_20150401_004462	Superior Rune Bracelet
 ITEM_20150401_004463	Star Bracelet 
 ITEM_20150401_004464	Cataphract Costume 
 ITEM_20150401_004465	GM Costume 
-ITEM_20150401_004466	Necklace Collection of 5 Sins 
+ITEM_20150401_004466	Necklace of the Five Sins Collection 
 ITEM_20150401_004467	A collection of five necklaces. Each necklace is inscribed with one of the five topics of a pilgrim's path. Made by Maven, the founder of the Great Cathedral. You can add it through the Magic Association NPC's Collection window with right-click. 
 ITEM_20150401_004468	Old Kepa Shell 
 ITEM_20150401_004469	Ridimed Stem 
@@ -4633,30 +4633,30 @@ ITEM_20150414_004632	A vegetable with a crunchy texture.
 ITEM_20150414_004633	Milk 
 ITEM_20150414_004634	Fresh and refreshing milk. 
 ITEM_20150414_004635	Infrorocktor Shell 
-ITEM_20150414_004636	A sturdy shell with a hexagonal pattern on it. Obtained from Infrorocktors. 
+ITEM_20150414_004636	A sturdy shell with a hexagonal pattern on it. {nl}Obtained from Infrorocktors. 
 ITEM_20150414_004637	Yekubite Antennae 
-ITEM_20150414_004638	A thin, pointy feeler. Obtained from Yekubites. 
+ITEM_20150414_004638	A thin, pointy feeler. {nl}Obtained from Yekubites. 
 ITEM_20150414_004639	Infroburk Shell 
-ITEM_20150414_004640	It is thin, but capable of withstanding tremendous pressure. Obtained from Infroburks. 
+ITEM_20150414_004640	It is thin, but capable of withstanding tremendous pressure. {nl}Obtained from Infroburks. 
 ITEM_20150414_004641	Red Infrorocktor Shell 
 ITEM_20150414_004642	An angular, hardened shell.{nl}Obtained from Red Infrorocktors. 
 ITEM_20150414_004643	Obtained from Black Desmoduses. 
 ITEM_20150414_004644	Phlogistone 
-ITEM_20150414_004645	A mysterious stone with the power of fire. Purchased from the Fletcher Master. 
-ITEM_20150414_004646	Infrorocktor Bone 
-ITEM_20150414_004647	The bones of an Infrorocktor are just as sturdy as the shell. Obtained from Infrorocktors. 
+ITEM_20150414_004645	A mysterious stone with the power of fire. {nl}Purchasable from the Fletcher Master. 
+ITEM_20150414_004646	Infrorocktor Bones 
+ITEM_20150414_004647	The bones of an Infrorocktor are just as sturdy as the shell. {nl}Obtained from Infrorocktors. 
 ITEM_20150414_004648	Yekubite Teeth 
-ITEM_20150414_004649	Teeth that developed to grind meat. Obtained from Yekubites. 
+ITEM_20150414_004649	Teeth that developed to grind meat. {nl}Obtained from Yekubites. 
 ITEM_20150414_004650	Yekubite Crystal 
-ITEM_20150414_004651	A crystal that only grows on the tail of Yekubite, it grows in size as the monster ages. Obtained from Yekubites. 
-ITEM_20150414_004652	Infro Holder Bone
+ITEM_20150414_004651	A crystal that only grows on the tail of Yekubite, it grows in size as the monster ages. {nl}Obtained from Yekubites. 
+ITEM_20150414_004652	Infro Holder Bones
 ITEM_20150414_004653	Obtained from Infro Holders. 
 ITEM_20150414_004654	Venom 
-ITEM_20150414_004655	A bottle of venom that can be used to make a powerful poison. Purchased from the Wugushi Master. 
+ITEM_20150414_004655	A bottle of venom that can be used to make a powerful poison. {nl}Purchasable from the Wugushi Master. 
 ITEM_20150414_004656	Camping Tools 
-ITEM_20150414_004657	It contains tools necessary for camping. Purchased from the Squire Master. 
+ITEM_20150414_004657	It contains tools necessary for camping. {nl}Purchasable from the Squire Master. 
 ITEM_20150414_004658	Gunpowder 
-ITEM_20150414_004659	A black powder used to make explosives. Purchased from the Fletcher Master. 
+ITEM_20150414_004659	A black powder used to make explosives. {nl}Purchasable from the Fletcher Master. 
 ITEM_20150414_004660	Ashrong Stem 
 ITEM_20150414_004661	Yellow Yognome Core 
 ITEM_20150414_004662	Yellow Egnome Core 
@@ -4708,22 +4708,22 @@ ITEM_20150414_004707	Amulet
 ITEM_20150414_004708	Fresh Meat 
 ITEM_20150414_004709	Meat for feeding the breeding hawks. Hawks like it. 
 ITEM_20150414_004710	Blut's Mark
-ITEM_20150414_004711	A mark containing Blut's power. He seems to have distributed them to his underling Demons. 
+ITEM_20150414_004711	A mark containing Blut's power. He seems to have distributed them to his underling demons. 
 ITEM_20150414_004712	A mark given by the Demon Lord Hauberk to his servants as a sign of their loyalty. 
 ITEM_20150414_004713	Necromantic Orb of Arune 
-ITEM_20150414_004714	An orb that Kyupol Arune used to interrogate Demons. Hauberk's aid is needed. 
-ITEM_20150414_004715	A crystal blessed with spatial powers by Goddess Vakarine. It has been modified so that the Gidirone people can use it. 
-ITEM_20150414_004716	A spectrum sphere created by Kyupol Daiba to keep watch on Demons. It can be used to find the hiding Hauberk. 
+ITEM_20150414_004714	An orb that Kupole Arune used to interrogate Demons. Hauberk's aid is needed. 
+ITEM_20150414_004715	A crystal blessed with spatial powers by Goddess Vakarine. It has been modified by Zydrone so that humans can use it. 
+ITEM_20150414_004716	A spectrum sphere created by Kupole Daiva to keep watch on demons. It can be used to find the hiding Hauberk. 
 ITEM_20150414_004717	A rune containing the Goddess Vakarine's power. It absorbs the souls of Demons. 
 ITEM_20150414_004718	Sealing Token
 ITEM_20150414_004719	A sign of sealing that the Kupoles put on the vicious demons in the Demon Prison. 
 ITEM_20150414_004720	A sealed fragment of Hauberk's shredded soul. 
 ITEM_20150414_004721	A fragment that Nuaele planted in the demons to ensure their obedience. 
-ITEM_20150414_004722	Traces left by Demons that passed through the transitional gap. 
-ITEM_20150414_004723	An empty soul needed to restore Dionysus as quickly as possible. 
-ITEM_20150414_004724	A trinket left by adventurers who entered the Demon Prison. It seems they were killed by Demons. 
-ITEM_20150414_004725	A token fragment dropped from the Lada Seal. Evidence that Dionysus spread riots after he lost his ego. 
-ITEM_20150414_004726	A claw found stuck in a Demon. It looks like it was attacked by Dionysus. 
+ITEM_20150414_004722	Traces left by Demons that passed through the dimensional crack. 
+ITEM_20150414_004723	An empty soul needed to restore Dionys as quickly as possible. 
+ITEM_20150414_004724	A trinket left by adventurers who entered the Demon Prison. It seems they were killed by demons. 
+ITEM_20150414_004725	A token fragment dropped from the Lada Seal. Evidence that Dionys spread riots after he lost his ego. 
+ITEM_20150414_004726	A claw found stuck in a demon. It looks like it was attacked by Dionys. 
 ITEM_20150414_004727	Kupole Sigita says that other Demons will take this tooth as a warning. 
 ITEM_20150414_004728	The tough root of a Red Large Kepa. An ingredient needed for the abdominal section of a front plate. 
 ITEM_20150414_004729	A Red Kepa tooth that can be used to make a shoulder guard. 
@@ -5100,14 +5100,14 @@ ITEM_20150511_005099	Fourth rubbing of Lydia Schaffen's tombstone. Read what's i
 ITEM_20150511_005100	Fifth rubbing of Lydia Schaffen's tombstone. Read what's inside. 
 ITEM_20150511_005101	Old documents that describe how one can turn into a demon. Read what's inside. 
 ITEM_20150511_005102	The letter Horacious wrote for borrowing the farm equipment. Readable. 
-ITEM_20150511_005103	Part 2 of Vakis's research found in the Dykyne Crossroads. Readable. 
-ITEM_20150511_005104	Part 3 of Vakis's research found in the Snake Neck Bluffs. Readable. 
-ITEM_20150511_005105	Part 4 of Vakis's research found in the Ipati Cliffs. Readable. 
-ITEM_20150511_005106	Vakis's research (5) 
-ITEM_20150511_005107	Part 4 of Vakis's research. Readable. 
+ITEM_20150511_005103	Part 2 of Varkis's research found in the Dykyne Crossroads. Readable. 
+ITEM_20150511_005104	Part 3 of Varkis's research found in the Snake Neck Bluffs. Readable. 
+ITEM_20150511_005105	Part 4 of Varkis's research found in the Ipati Cliffs. Readable. 
+ITEM_20150511_005106	Varkis' Research Materials (5)
+ITEM_20150511_005107	Part 4 of Varkis's research. Readable. 
 ITEM_20150511_005108	Priest Yosana's research report. It contains information on the expression of curses. Readable. 
 ITEM_20150511_005109	Priest Roana's research report. It contains information on lifting curses. Readable. 
-ITEM_20150511_005110	Priest Projit's research report. It contains information on the effects of curses and how they propogate. Readable. 
+ITEM_20150511_005110	Priest Prozit's research report. It contains information on the effects of curses and how they propogate. Readable. 
 ITEM_20150511_005111	The sealed research report that describes the curses that Priest Yosana gathered together. The priest said it disappeared in an instant. 
 ITEM_20150714_005112	The increased length of geomnal complements the deficiencies of the gladius sword 
 ITEM_20150714_005113	Veteran Crossbow 
@@ -5139,7 +5139,7 @@ ITEM_20150714_005138	Crafted to deal with extreme cold. Reflects the current mas
 ITEM_20150714_005139	Enchanter Costume 
 ITEM_20150714_005140	Pickaxe Set 
 ITEM_20150714_005141	Card Set 
-ITEM_20150714_005142	Michalis Armband 
+ITEM_20150714_005142	Kaliss Armband 
 ITEM_20150714_005143	Восстанавливает HP every 2 seconds. {nl}384 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150714_005144	Восстанавливает HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150714_005145	Восстанавливает HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
@@ -5749,7 +5749,7 @@ ITEM_20150717_005748	This necklace protected its owner until his last moments. W
 ITEM_20150717_005749	Since Medzio Diena, new monsters brought new skills that were used to craft items such as this. It is a premier product.
 ITEM_20150717_005750	It contains a royal grace from Goddess Zemyna who did not enjoy fighting. It provides users with an amazing defense effect, but it isn't good during attacks.
 ITEM_20150717_005751	Клайпеда has been known for its handicrafts. Fedimian handicrafts has evolved from using silver to other materials, but Клайпеда handicrafts has always been related to the use of crystals.
-ITEM_20150717_005752	You might think it's an ordinary item, made of light wood, but woods are not ordinary in this world. 
+ITEM_20150717_005752	You might think it's an ordinary item made of light wood, but wood isn't ordinary in this world. 
 ITEM_20150717_005753	That the Vubbes are using this equipment proves that a very strong existence is behind them. Some people think that it could be Mirtis. 
 ITEM_20150717_005754	The people who've equipped it before said their SPR goes up. As a result, it is true that their resistance to magic increases.
 ITEM_20150717_005755	Gathering some makes one effective. Don't divide for using.
@@ -5761,10 +5761,10 @@ ITEM_20150717_005760	A lot of jewels used for consumer goods to hold the magic i
 ITEM_20150717_005761	Silver material containing the magic is used to display the surface's pattern.
 ITEM_20150717_005762	These types of pearls are mainly for decoration purposes as it is generally hard to hold the magic.
 ITEM_20150717_005763	Priests who communicated directly with a goddess also don't know lots of parts. However, known up to now can endow a lot of abilities.
-ITEM_20150717_005764	The origin of this bracelet is connecting to Lydia Schaffen and Schaffenstar formed by her. However, there are no restrictions to use this bracelet for people who did not come from the Astral Tower.
+ITEM_20150717_005764	The origin of this bracelet is connecting to Lydia Schaffen and the Schaffenstar formed by her. However, there are no restrictions to use this bracelet for people who did not come from the Astral Tower.
 ITEM_20150717_005765	Goddess Jurate evicted demons living in the sea from her territory. As Merregina roams on land, its purpose as material is becoming known. 
 ITEM_20150717_005766	The study of strong demons and the creation of new magical weapons has become more important after Medzio Diena.
-ITEM_20150717_005767	Its name reflects that the item is easy to get, not that the item is shabby. 
+ITEM_20150717_005767	Its name reflects that the item is easy to get, not to imply that the item is shabby.
 ITEM_20150717_005768	During the Millenary 90 years ago, many items were crafted to celebrate the Great King Zachariel's founding of the kingdom. The items' necessity only increased after Medzio Diena.
 ITEM_20150717_005769	Some avoid it due to the source of its power but such thoughts are considered a luxury after Medzio Diena.
 ITEM_20150717_005770	Lapasape Mushroom
@@ -5789,9 +5789,9 @@ ITEM_20150717_005788	It is unknown what these talismans mean to the Goblins, but
 ITEM_20150717_005789	It has a proper form to dig the ground.
 ITEM_20150717_005790	Ruby
 ITEM_20150717_005791	A rare, bright red gem.
-ITEM_20150717_005792	A piece of cloth probably from the outfil of the Tool Merchant's Father.You can feel great effort from the needlepoints.
+ITEM_20150717_005792	A piece of cloth probably from the outfit of the Item Merchant's father. You can feel great effort from the needlepoints.
 ITEM_20150717_005793	Rambear Claws
-ITEM_20150717_005794	Rambear Claws appear in the petrified City Verkti Square
+ITEM_20150717_005794	Rambear Claws appear in the Petrified City of Verkti Square
 ITEM_20150717_005795	Cough Medicine
 ITEM_20150717_005796	A seal has a power to suppress the evil spirits made by Valius.
 ITEM_20150717_005797	Velheider Voucher
@@ -8861,25 +8861,25 @@ ITEM_20151224_008860	Increases your AoE Attack Ratio by 3 for 85 seconds. Right-
 ITEM_20151224_008861	Lv15 AoE Attack Ratio Potion
 ITEM_20151224_008862	Increases your AoE Attack Ratio by 3 for 90 seconds. Right-click to use. Cooldown of 60 seconds.
 ITEM_20151224_008863	Lv6 Attack Booster
-ITEM_20151224_008864	Adds +30 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008864	Adds 30 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008865	Lv7 Attack Booster
-ITEM_20151224_008866	Adds +33 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008866	Adds 33 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008867	Lv8 Attack Booster
-ITEM_20151224_008868	Adds +36 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008868	Adds 36 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008869	Lv9 Attack Booster
-ITEM_20151224_008870	Adds +39 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008870	Adds 39 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008871	Lv10 Attack Booster
-ITEM_20151224_008872	Adds +42 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008872	Adds 42 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008873	Lv11 Attack Booster
-ITEM_20151224_008874	Adds +45 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008874	Adds 45 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008875	Lv12 Attack Booster
-ITEM_20151224_008876	Adds +48 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008876	Adds 48 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008877	Lv13 Attack Booster
-ITEM_20151224_008878	Adds +51 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008878	Adds 51 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008879	Lv14 Attack Booster
-ITEM_20151224_008880	Adds +54 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008880	Adds 54 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008881	Lv15 Attack Booster
-ITEM_20151224_008882	Adds +57 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008882	Adds 57 damage to your weapon. {nl}Can be used after assigning it to a quick slot.
 ITEM_20151224_008883	Highly Condensed HP Potion
 ITEM_20151224_008884	Highly Condensed SP Potion
 ITEM_20151224_008885	Highly Condensed Movement Speed Potion
@@ -9603,109 +9603,109 @@ ITEM_20151224_009602	A flask for collecting spiritual energy. It feels a bit cre
 ITEM_20151224_009603	Delmore Outskirts Gun Powder
 ITEM_20151224_009604	Gun powder made in the outskirts of Delmore, requested by the Sapper Submaster. Where could the civilians have gone?
 ITEM_20151224_009605	Wugushi Poison Bottle
-ITEM_20151224_009606	A bottle that can carry the poison extracted from a corpse. Uhm... What to say...
+ITEM_20151224_009606	A bottle that can carry poison extracted from corpses. Uhm... What?
 ITEM_20151224_009607	A jar that can capture poisonous monsters.
-ITEM_20151224_009608	A record book used by Scouts for reconnaissance missions. Obvious marks of erasing can be seen.
+ITEM_20151224_009608	A record book used by Scouts for reconnaissance missions. Obvious eraser marks can be seen.
 ITEM_20151224_009609	Archer's Test Orb
 ITEM_20151224_009610	An orb used to check up on the progress of the Archer's test.
 ITEM_20151224_009611	Evil Spirit Awakening Scroll
-ITEM_20151224_009612	A scroll infused with magic that reveals the hidden evil spirits.
+ITEM_20151224_009612	A scroll infused with magic, of which reveals hidden evil spirits.
 ITEM_20151224_009613	Featherfoot's Incantation Tools
-ITEM_20151224_009614	Dangerous incantation tools used by Featherfoots to cast curses.
+ITEM_20151224_009614	A set of dangerous incantation tools used by Featherfoots to cast curses.
 ITEM_20151224_009615	Mystical Orb
 ITEM_20151224_009616	An orb that holds the secret of the mysterious numbers.
 ITEM_20151224_009617	Disposable Reagent Bottle
-ITEM_20151224_009618	A disposable reagent bottle used for liquids.
+ITEM_20151224_009618	A disposable reagent bottle, great for holding liquids.
 ITEM_20151224_009619	Liquefied Dissolvent
 ITEM_20151224_009620	A liquefied dissolvent that can melt various materials.
 ITEM_20151224_009621	Yellow-Eyed Flower Petal
-ITEM_20151224_009622	A yellow-eyed flower petal with a mysterious effect.
-ITEM_20151224_009623	An empty roll of paper with nothing scribbled on it. A strange chemical smell is given off.
+ITEM_20151224_009622	A petal from a yellow-eyed flower. It seems to have a mysterious effect.
+ITEM_20151224_009623	An empty roll of paper with nothing scribbled on it. It gives of a strange chemical smell.
 ITEM_20151224_009624	Letters have appeared from the empty roll of paper.
-ITEM_20151224_009625	Scout Master's Special Medicine
-ITEM_20151224_009626	Scout Master's special medicine used to see the words hidden by a special drug.
+ITEM_20151224_009625	Scout Master's Special Reagent
+ITEM_20151224_009626	The Scout Master's special reagent - used to see words made hidden by a special chemical.
 ITEM_20151224_009627	Summoned Soil
-ITEM_20151224_009628	A material used neutralize the Crystal Mine's poisonous gas.
+ITEM_20151224_009628	A material used to neutralize the Crystal Mine's poisonous gas.
 ITEM_20151224_009629	Limestone Powder
 ITEM_20151224_009630	Charcoal Powder
 ITEM_20151224_009631	Sutatis Trade Route Key
-ITEM_20151224_009632	A key discovered in Sutatis Trade Route. It is used to unlock something.
+ITEM_20151224_009632	A key discovered in the Sutatis Trade Route. What does it unlock?
 ITEM_20151224_009633	Lost Materials
 ITEM_20151224_009634	Materials taken by monsters from the Royal Army. There seems to have been an terrible attack.
 ITEM_20151224_009635	Mochia Stems
-ITEM_20151224_009636	A fragment containing part of Demon Lord Hauberk's soul. Hauberk left it temporarily as a sign of his trust.
+ITEM_20151224_009636	A fragment of Demon Lord Hauberk's soul. Hauberk left it temporarily, to signify his trust.
 ITEM_20151224_009637	Grass Leaf Ointment
-ITEM_20151224_009638	An ointment delivery request from Settler Brophen to Settler Layla.
-ITEM_20151224_009639	Leaves with a slight reddish tone. Settler Izna said that these are used to create a great ointment for wounds.
+ITEM_20151224_009638	A delivery request for ointment, sent from Settler Brophen to Settler Layla.
+ITEM_20151224_009639	Leaves with a slight reddish hue. Settler Izna said that these are great for making an ointment for wounds.
 ITEM_20151224_009640	Mucus with an odd smell. An ingredient used to create a fatigue recovery potion. Really...?
 ITEM_20151224_009641	Useful Objects
-ITEM_20151224_009642	Objects left by lumberjacks during their retreat. Some of them might be useful if they're fixed correctly. 
+ITEM_20151224_009642	Objects left by fleeing lumberjacks. Some of them might be useful if they're repaired. 
 ITEM_20151224_009643	Priest Irma's Journal Page
-ITEM_20151224_009644	A page from Priest Irma's journal that has been bitten and torn by monsters.{nl}Is it even readable at all?
+ITEM_20151224_009644	A page from Priest Irma's journal that's been bitten and torn by monsters.{nl}Is it even readable at all?
 ITEM_20151224_009645	Priest Irma's Journal
 ITEM_20151224_009646	Collected pages of Priest Irma's Journal.
-ITEM_20151224_009647	A note found in a bundle of grass with smoke coming out. Half of the content is burnt. 
-ITEM_20151224_009648	A drug created coincidentally from a failure by Germeja. The monsters will fight against each other if used on them.
+ITEM_20151224_009647	A note found in a smoking bundle of grass. Half of the content is burnt. 
+ITEM_20151224_009648	A drug created coincidentally from Germeja's failure. The monsters will fight against each other if it's used on them.
 ITEM_20151224_009649	A note left by Priest Gelija. This might be the decisive clue since Gelija is so thorough.
 ITEM_20151224_009650	A whistle that can call Jolly to your location. Blow the whistle if Jolly is too far away.
 ITEM_20151224_009651	Leftover Box
-ITEM_20151224_009652	The blood of monsters found in Rohonxa Cliff. Is it contaminated due to the demons?
+ITEM_20151224_009652	The blood of monsters found in Rohonsa Cliff. Is it contaminated due to the demons?
 ITEM_20151224_009653	Chaser's Package
 ITEM_20151224_009654	A bag filled with medicine and bandages.
-ITEM_20151224_009655	A red crystal once held by demons. Once could very well be threatened because of it.
-ITEM_20151224_009656	A wood piece with a corruptive energy held by the demons. Can it drive out the curse...
-ITEM_20151224_009657	A mysterious pack held by every demons. It might be related to the curse.
-ITEM_20151224_009658	A mysterious pack held by every demons. Try using it figure out the effect.
+ITEM_20151224_009655	A red crystal once held by demons. It wouldn't be out of the question to feel threatened by it.
+ITEM_20151224_009656	A wood piece held by demons emitting a corruptive energy. Can it drive out the curse?
+ITEM_20151224_009657	A mysterious pack held by every demon. It might be related to the curse.
+ITEM_20151224_009658	A mysterious pack held by every demon. Using it seems to be the only way to find out what it does. Here goes nothing!
 ITEM_20151224_009659	Restored Orb of Return
 ITEM_20151224_009660	Twinkling Pearl Powder
-ITEM_20151224_009661	Twinkling Pearl Powder prepared by the Priest Auranas. It can be used on demons...
-ITEM_20151224_009662	Demon Warrant
-ITEM_20151224_009663	A demon's warrant protected by bishops and priests by risking their lives. It cannot be read because it is written in demon language.
+ITEM_20151224_009661	Twinkling pearl powder prepared by the Priest Auranas. It can be used on demons...
+ITEM_20151224_009662	Demon Orders
+ITEM_20151224_009663	A demon's plans thwarted by bishops and priests who risked their lives to stop them. It cannot be read due to it being written in the demon's language.
 ITEM_20151224_009664	Priest Gelija's Medicine Pouch
 ITEM_20151224_009665	It's filled with medicines and bandages.
 ITEM_20151224_009666	Holy Water Cloth
-ITEM_20151224_009667	A cloth blessed with holy water by Priest Gelija to remove fragments from statue of Marnox
+ITEM_20151224_009667	A cloth blessed by Priest Gelija with holy water to remove fragments from the statue of Marnox.
 ITEM_20151224_009668	Ashaq Underground Prison 1F Map
 ITEM_20151224_009669	A map left by Urbonas which was found in Paupys Crossing. A certain area of Ashaq Underground Prison 1F is marked.
 ITEM_20151224_009670	Orb of Return
-ITEM_20151224_009671	An orb that can destroy the cursed statue. You can collect magic into the orb by defeating the demons.
-ITEM_20151224_009672	Shattering Orb of Return
-ITEM_20151224_009673	The Orb of Return carried by Priest Irma. It's about to shatter because it has been used on Marnox so much.
+ITEM_20151224_009671	An orb that can destroy the cursed statue. You can absorb magical energy into the orb by defeating the demons.
+ITEM_20151224_009672	Cracked Orb of Return
+ITEM_20151224_009673	The Orb of Return carried by Priest Irma. It's about to shatter due to being used on Marnox so many times.
 ITEM_20151224_009674	Marnox's Insignia
-ITEM_20151224_009675	An insignia given to Marnox's servant demons. Priest Gelija wants to research it.
-ITEM_20151224_009676	An orb that was narrowly restored.
-ITEM_20151224_009677	A component to fix the Mineral Detector of Coastal Fortress. Obtained from volunteers that lost their lives. May their souls rest in peace.
+ITEM_20151224_009675	An insignia given to Marnox's demon servants. Priest Gelija wants to research it.
+ITEM_20151224_009676	An orb that was just barely restored.
+ITEM_20151224_009677	A component useful in fixing the Mineral Detector of Coastal Fortress. {nl}Obtained from the brave souls who lost their lives trying to obtain it. May they rest in peace.
 ITEM_20151224_009678	Flammable Powder
-ITEM_20151224_009679	An easily flammable powder used to create flares and other items. Commonly obtained from monsters.
+ITEM_20151224_009679	A powder that goes up in flames quite easily. Commonly obtained from monsters.
 ITEM_20151224_009680	Kepari Inner Shell
-ITEM_20151224_009681	A translucent inner shell obtained from Keparis. It's thick and doesn't soak well.
-ITEM_20151224_009682	A durable leather strap obtained from Dendels. It looks like it can be used to bind books, but not in this state.
-ITEM_20151224_009683	A binding strap created using the strap obtained from Dandels.
+ITEM_20151224_009681	A translucent inner shell obtained from Keparis. It's thick and doesn't soak as well as a normal onion.
+ITEM_20151224_009682	A durable leather strap obtained from Dandels. It looks like it can be used to bind books, but not in this state.
+ITEM_20151224_009683	A binding strap created using the Dandel leather.
 ITEM_20151224_009684	A dud discovered in Sentry Bailey. It seems to be very old. Bring it to the Sapper Master.
 ITEM_20151224_009685	Loktanun Fluid
-ITEM_20151224_009686	Loktanun Fluid with an acidic property. It can dry up plants.
-ITEM_20151224_009687	Small Leaves Herb
-ITEM_20151224_009688	This seems to be the herb made with small leaves described by Ash.
-ITEM_20151224_009689	A handkerchief belonging to a traveling merchant, a fabric handed from Rose for Laswi to sniff. It has a sour smell.
-ITEM_20151224_009690	Pants belonging to a traveling merchant, clothing handed from Rose for Laswi to sniff. It has a sour smell. 
-ITEM_20151224_009691	A shirt belonging to a traveling merchant, clothing handed from Rose for Laswi to sniff. It has a sour smell.
+ITEM_20151224_009686	It's acidic enough to dry up plants.
+ITEM_20151224_009687	Small Leafed Herb
+ITEM_20151224_009688	This seems to be the herb described by Ash as having small leaves.
+ITEM_20151224_009689	A handkerchief belonging to a traveling merchant.  It was given by Rose for Laswi to smell. It has a sour odor.
+ITEM_20151224_009690	Pants belonging to a traveling merchant. Rose told you to give it to Laswi to smell. It has a sour odor. 
+ITEM_20151224_009691	A shirt belonging to a traveling merchant. Rose would see fit that Laswi smells it. It has a sour odor.
 ITEM_20151224_009692	Andres' Package
-ITEM_20151224_009693	Peddler Andres' package of goods. It holds all the expensive things that was purchased from investing his entire asset.
+ITEM_20151224_009693	Peddler Andres' package of goods. It holds all the expensive goods purchased from a very risky, yet lucrative, investment.
 ITEM_20151224_009694	Ronjia Grass 
-ITEM_20151224_009695	The herbs requested by Herbalist Tales. It has an outstanding pain-killer effect.
+ITEM_20151224_009695	The herbs requested by Herbalist Tales. They have an outstanding pain-killer effect.
 ITEM_20151224_009696	Tamara Counteragent
 ITEM_20151224_009697	A counteragent given by the Cleric Submaster. It neutralizes sinister energy.
 ITEM_20151224_009698	Dadan Jungle Experiment Journal, Chapter 1
-ITEM_20151224_009699	An experimental jounral written in a human language. Right-click to use.
+ITEM_20151224_009699	An experimental journal written by a human. {nl}Right-click to use.
 ITEM_20151224_009700	Dadan Jungle Experiment Journal, Chapter 2
 ITEM_20151224_009701	Dadan Jungle Experiment Journal, Chapter 3
 ITEM_20151224_009702	Dadan Jungle Experiment Journal, Chapter 4
 ITEM_20151224_009703	Green Apparition Essence
-ITEM_20151224_009704	An essence to prove themselves as a demon to open the special reading room.
+ITEM_20151224_009704	An essence used to prove oneself as a demon, in order to open the Special Reading Room.
 ITEM_20151224_009705	Experiment Victim's Relic
 ITEM_20151224_009706	There's no way to meet the owner of this relic.
 ITEM_20151224_009707	Hilbeth's Backpack
-ITEM_20151224_009708	The backpack of the experimental victim, Hilbeth. It contains many mysterious herbs.
+ITEM_20151224_009708	The backpack of the experiment's victim, Hilbeth. It contains many mysterious herbs.
 ITEM_20151224_009709	Thick Ring
 ITEM_20151224_009710	A chunky ring that seems to belong a man. Its owner is nowhere to be seen.
 ITEM_20151224_009711	Thin Bracelet
@@ -9722,10 +9722,10 @@ ITEM_20151224_009721	Brown Hummingbird's Crystal
 ITEM_20151224_009722	Brown Hummingbird's Crystal. Is it one of the object that the mage put into the machine?
 ITEM_20151224_009723	Brown Hummingbird's Toenail
 ITEM_20151224_009724	Brown Hummingbird's Toenail. Is it one of the object that the mage put into the machine?
-ITEM_20151224_009725	A material used to make Protective Barrier Crystals. Obtained from Deadborn Scaps at the Novaha Institute.
+ITEM_20151224_009725	A material used to make Protective Barrier Crystals. {nl}Obtained from Deadborn Scaps at the Novaha Institute.
 ITEM_20151224_009726	A crystal made from the recipe given by the Wizard Submaster. It helps protect the Rose siblings from the demons.
 ITEM_20151224_009727	Empty Barrier Crystal
-ITEM_20151224_009728	A material used to make Protective Barrier Crystals. Obtained from the Wizard Submaster.
+ITEM_20151224_009728	A material used to make Protective Barrier Crystals. {nl} from the Wizard Submaster.
 ITEM_20151224_009729	Restored Novaha Monestry's Holy Relic
 ITEM_20151224_009730	A holy relic restored thanks to the efforts of Monk Abels.
 ITEM_20151224_009731	A Spirit Rock filled with spirits. Take it to Margiris to be recognized as a member of the sect.
@@ -9818,18 +9818,18 @@ ITEM_20151224_009817	Spell Amplifier
 ITEM_20151224_009818	An amplifier carried by Black Maizes. An item wanted by Revelator Mihail.
 ITEM_20151224_009819	Raffly Soul Crystal
 ITEM_20151224_009820	Vubbe Warrior Mind Crystal
-ITEM_20160224_009821	Many followed suit once one of the heirs of the more prestigious families fashioned their hair this way. It must be said however, that it is difficult to diverge all of its charm without the person being attractive in the first place.
-ITEM_20160224_009822	A hairstyle restored around the time of the Millenary which many people tried to imitate. However, it was mostly done by the nobility because it is difficult to cut and maintain.
+ITEM_20160224_009821	Once the heir of one the more prestigious families fashioned their hair this way, many followed suit. It must be said however, it's difficult to capitalize on its charm without being attractive in the first place.
+ITEM_20160224_009822	A hairstyle imitated by many, restored from around the time of the Millenary. However, it was mostly done by nobility due to it being difficult to cut and maintain.
 ITEM_20160224_009823	Root Lifted Wave Hairstyle
-ITEM_20160224_009824	Some say that a mere hairstyle cannot become the starting point of showing one's respect for the goddesses.{nl}However, goddesses also have preferences.
+ITEM_20160224_009824	Some say that a mere hairstyle cannot be a way to show one's respect for the goddesses.{nl}However, goddesses also have their preferences.
 ITEM_20160224_009825	Noble Ponytail
-ITEM_20160224_009826	A hairstyle that has been in fashion each time the kingdom was at peace. This hairstyle signifies the longing for those peaceful times in these troublesome times after Medzio Diena.
-ITEM_20160224_009827	According to some rumors, General Ramin was able to find the princess in the ruins of the old capital when she was half buried in debris thanks to this hairstyle.
+ITEM_20160224_009826	A hairstyle that's come into fashion each time the kingdom was at peace. This hairstyle signifies longing for the peace of times past, before Medzio Diena.
+ITEM_20160224_009827	According to some rumors, General Ramin was able to find the princess half buried in the ruins of the old capital thanks to this hairstyle.
 ITEM_20160224_009828	This hairstyle has an inornate natural beauty about it. Much like the blessings of the goddesses.
 ITEM_20160224_009829	Noble Long
 ITEM_20160224_009830	Originally a hairstyle for esteemed daughters attending the Royal Girl's School in the old capital, it has since been imitated by many women.
 ITEM_20160224_009831	Short Cut Firm
-ITEM_20160224_009832	This expression that best fits this hairstyle is that it seems as if the sanctity of the Goddess Statue has descended upon the hair. Not the wooden statue of course.
+ITEM_20160224_009832	A metaphor that best fits this hairstyle is that it's as if the sanctity of the Goddess Statue has descended upon one's hair. Not the wooden statue of course.
 ITEM_20160224_009833	Artie Saif
 ITEM_20160224_009834	Vienie Badelaire
 ITEM_20160224_009835	Magi Colichemarde
@@ -9892,7 +9892,7 @@ ITEM_20160224_009891	Lumas Bow
 ITEM_20160224_009892	Poison Wooden Compound Bow
 ITEM_20160224_009893	Futere Tag Bow
 ITEM_20160224_009894	Vienie Rogue Bow
-ITEM_20160224_009895	Hunting Richie Bow
+ITEM_20160224_009895	Hunting Wreech Bow
 ITEM_20160224_009896	Magi Kaman
 ITEM_20160224_009897	Light Gorithos
 ITEM_20160224_009898	Supportive Siege Bow
@@ -9903,7 +9903,7 @@ ITEM_20160224_009902	Pensara Bow
 ITEM_20160224_009903	Maga Bow
 ITEM_20160224_009904	Lolopanther Bow
 ITEM_20160224_009905	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16}2
-ITEM_20160224_009906	 - Backstab skill level {img green_up_arrow 16 16}3
+ITEM_20160224_009906	 - [Backstab] skill level {img green_up_arrow 16 16}3
 ITEM_20160224_009907	 - 2% chance to deal {img green_up_arrow 16 16}600% damage
 ITEM_20160224_009908	Eki Fedimian Turret
 ITEM_20160224_009909	Eki Veteran Crossbow
@@ -10022,7 +10022,7 @@ ITEM_20160224_010021	Fire Musket
 ITEM_20160224_010022	Eki Musket
 ITEM_20160224_010023	Vienie Musket
 ITEM_20160224_010024	Pensara Musket
-ITEM_20160224_010025	 - Covering Fire skill level {img green_up_arrow 16 16}1
+ITEM_20160224_010025	 - [Covering Fire] skill level {img green_up_arrow 16 16}1
 ITEM_20160224_010026	Lolopanther Musket
 ITEM_20160224_010027	 - All Musketeer skill levels {img green_up_arrow 16 16}2
 ITEM_20160224_010028	Materials from monsters after Medzio Diena have been used on armor, and this piece of equipment is no different.
@@ -10234,19 +10234,19 @@ ITEM_20160310_010233	Among the efforts to combine holy and magic power while eli
 ITEM_20160310_010234	This piece of equipment will help you pierce through the demonic darkness.
 ITEM_20160310_010235	This bracelet works by strenghtening the war spirit of those who wear it. It is very powerful, but it does not come without some drawbacks.
 ITEM_20160310_010236	Metal Detector
-ITEM_20160310_010237	Adds +2686 Character EXP and +2668 Class EXP. Can be used from Lv. 5.
-ITEM_20160310_010238	Adds +8442 Character EXP and +6500 Class EXP. Can be used from Lv. 20.
-ITEM_20160310_010239	Adds +22860 Character EXP and +17602 Class EXP. Can be used from Lv. 40.
-ITEM_20160310_010240	Adds +24571 Character EXP and +18919 Class EXP. Can be used from Lv. 60.
-ITEM_20160310_010241	Adds +60312 Character EXP and +46440 Class EXP. Can be used from Lv. 80.
-ITEM_20160310_010242	Adds +142150 Character EXP and +109455 Class EXP. Can be used from Lv. 100.
-ITEM_20160310_010243	Adds +209334 Character EXP and +161187 Class EXP. Can be used from Lv. 120.
-ITEM_20160310_010244	Adds +237943 Character EXP and +183216 Class EXP. Can be used from Lv. 150.
-ITEM_20160310_010245	Adds +541023 Character EXP and +416587 Class EXP. Can be used from Lv. 180.
-ITEM_20160310_010246	Adds +985061 Character EXP and +758496 Class EXP. Can be used from Lv. 210.
-ITEM_20160310_010247	Adds +2420348 Character EXP and +1863667 Class EXP. Can be used from Lv. 250.
+ITEM_20160310_010237	Adds 2686 Character EXP and 2668 Class EXP. Can be used from Lv. 5.
+ITEM_20160310_010238	Adds 8442 Character EXP and 6500 Class EXP. Can be used from Lv. 20.
+ITEM_20160310_010239	Adds 22860 Character EXP and 17602 Class EXP. Can be used from Lv. 40.
+ITEM_20160310_010240	Adds 24571 Character EXP and 18919 Class EXP. Can be used from Lv. 60.
+ITEM_20160310_010241	Adds 60312 Character EXP and 46440 Class EXP. Can be used from Lv. 80.
+ITEM_20160310_010242	Adds 142150 Character EXP and 109455 Class EXP. Can be used from Lv. 100.
+ITEM_20160310_010243	Adds 209334 Character EXP and 161187 Class EXP. Can be used from Lv. 120.
+ITEM_20160310_010244	Adds 237943 Character EXP and 183216 Class EXP. Can be used from Lv. 150.
+ITEM_20160310_010245	Adds 541023 Character EXP and 416587 Class EXP. Can be used from Lv. 180.
+ITEM_20160310_010246	Adds 985061 Character EXP and 758496 Class EXP. Can be used from Lv. 210.
+ITEM_20160310_010247	Adds 2420348 Character EXP and 1863667 Class EXP. Can be used from Lv. 250.
 ITEM_20160310_010248	Reward EXP Card
-ITEM_20160310_010249	Adds +2686 Character EXP and +2668 Class EXP. Can be used from Lv. 5.
+ITEM_20160310_010249	Adds 479397 Character EXP and 369135 Class EXP. {nl}Right-click to use.
 ITEM_20160310_010250	Items can be obtained when used. Can be used from Lv. 45.{nl}- 20x Lv4 EXP Card{nl}- 10x Settlement Support Potion{nl}- 3x EXP Tome{nl}- Settlement Support Chest: Lv60{nl}This item will be removed after the server maintenance of March 7th.
 ITEM_20160310_010251	Research Materials
 ITEM_20160310_010252	Research materials stolen from Gatre by the demons.
@@ -10263,7 +10263,7 @@ ITEM_20160310_010262	Lost Research Note, Chapter 3
 ITEM_20160310_010263	Fruit Juice Crystal
 ITEM_20160310_010264	Fruit juice crystallized on a monster's body. Used in Sarma's research.
 ITEM_20160310_010265	Aged Fruit Tree Sap
-ITEM_20160310_010266	Sap collected from fruit trees in Alemeth Forest and matured through a special process. Absolutely necessary for Sarma's experiment.
+ITEM_20160310_010266	Sap collected from fruit trees in Alemeth Forest, matured through a special process. Absolutely necessary for Sarma's experiment.
 ITEM_20160310_010267	Red Lake Water
 ITEM_20160310_010268	Water collected from a red lake. It looks eery.
 ITEM_20160310_010269	Alchemical Blend
@@ -10280,21 +10280,21 @@ ITEM_20160310_010279	Adomas' Note
 ITEM_20160310_010280	A note left by Adomas.
 ITEM_20160310_010281	'Run away from Faustas'
 ITEM_20160310_010282	 is what it says. Deliver it to a Necromancer named Lemija.
-ITEM_20160310_010283	A letter from a soldier. It seems to have been written to their family but it was never delivered.
+ITEM_20160310_010283	A letter from a soldier. It seems to have been written to their family, but it was never delivered.
 ITEM_20160310_010284	Monster Corpse Piece
 ITEM_20160310_010285	A piece of a defeated monster's corpse. Lemija says it can be used to make an amulet.
 ITEM_20160310_010286	Lemija's Amulet
 ITEM_20160310_010287	An amulet made by Lemija. It can absorb the magic occupying the body of the frozen soldier.
 ITEM_20160310_010288	Assistant Commander's Note
 ITEM_20160310_010289	A note by the Assistant Commander of Vedas Plateau. It describes the situation of the region.
-ITEM_20160310_010290	Veda Plateau Soldier's Belongings
-ITEM_20160310_010291	Objects obtained from monsters. They seem to belong to the soldier.
+ITEM_20160310_010290	Vedas Plateau Soldier's Belongings
+ITEM_20160310_010291	Objects obtained from monsters. They seem to be souvenirs for the soldier.
 ITEM_20160310_010292	Engagement Ring
-ITEM_20160310_010293	A ring given by Veda Plateau's Assistant Commander. Deliver it to Royal Army Officer Retia.
+ITEM_20160310_010293	A ring given by the Assistant Commander of Vedas Plateau. Deliver it to Royal Army Officer Retia.
 ITEM_20160310_010294	Base Reagent
-ITEM_20160310_010295	A reagent chemical found in an abandoned tent. It seems to have been made for an experiment.
+ITEM_20160310_010295	A reagent chemical found in an abandoned tent. It seems to have been created for an experiment.
 ITEM_20160310_010296	Spion Tree Leaves
-ITEM_20160310_010297	Tree leaves used as weapons by Spions. They are softer than what they may seem.
+ITEM_20160310_010297	Tree leaves used as weapons by Spions. They are softer than they look.
 ITEM_20160310_010298	Lucienne's Reagent
 ITEM_20160310_010299	A reagent chemical made by Lucienne to kill the giant vines in Nahash Forest.
 ITEM_20160310_010300	Spion Teeth
@@ -10305,24 +10305,24 @@ ITEM_20160310_010304	Experiment Herb Seeds
 ITEM_20160310_010305	Herb seeds Lucienne has asked you to plant. It seems they're going to be used to make a reagent.
 ITEM_20160310_010306	Soul Sphere
 ITEM_20160310_010307	A sphere given by a villager. It is said to prevent attacks when filled with demon souls.
-ITEM_20160310_010308	Red blood collected from a demon. It's impossible to know what it will be used for.
+ITEM_20160310_010308	Red blood collected from a demon. It is impossible to find out what its use is.
 ITEM_20160310_010309	Purified Soul Sphere
 ITEM_20160310_010310	A sphere purified by the abbot. It exudes divine energy.
 ITEM_20160310_010311	A scripture containing the doctrines of the Tree of Truth sect.
 ITEM_20160310_010312	Edible Food Items
-ITEM_20160310_010313	Random food items left behind at Namoth Cross Parvis. They look about to go bad, but still edible.
+ITEM_20160310_010313	Random food items left behind at Namoth Cross Parvis. They look like they're about to go bad, but still seem edible.
 ITEM_20160310_010314	Lucienne's Special Reagent
 ITEM_20160310_010315	A special reagent created by Lucienne as a result of her research. It was made according to Vaidotas' advice.
-ITEM_20160310_010316	A key made of sparkly blue fragments. Used to activate a certain device.
-ITEM_20160310_010317	A suspicious pouch found burried in the ground. It exudes a strange smell.
+ITEM_20160310_010316	A key made of sparkling blue fragments. Used to activate a certain device.
+ITEM_20160310_010317	A suspicious pouch found buried in the ground. It exudes a strange smell.
 ITEM_20160310_010318	Peculiar Coral Fragment
 ITEM_20160310_010319	A peculiar-looking piece of coral. It seems to have come from a never-before-seen species.
 ITEM_20160310_010320	Greentoshell Shell Fragment
-ITEM_20160310_010321	A piece of Greentoshell shell. It can be ground and used as an ingredient for ointment.
+ITEM_20160310_010321	A piece of Greentoshell shell. It can be ground and used as an ointment ingredient.
 ITEM_20160310_010322	Blue Lapasape Moss
 ITEM_20160310_010323	Moss that grows on the bodies of Lapasape Mages. It can be used as an ingredient for ointment.
 ITEM_20160310_010324	Merchant's Magic Detector
-ITEM_20160310_010325	A compass borrowed from a merchant to find a tool able to open a magically-locked chest. It points to nearby magic objects.
+ITEM_20160310_010325	A compass borrowed from a merchant, useful in finding a tool able to open a magically-locked chest. It points to nearby magic objects.
 ITEM_20160310_010326	Old Backpack
 ITEM_20160310_010327	An old backpack that reacts to the magic detector. It contains several objects of unknown use...
 ITEM_20160310_010328	Agnim Coral Fragment.
